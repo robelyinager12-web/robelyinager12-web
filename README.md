@@ -4,14 +4,14 @@
 
 <table width="100%" border="0">
 <tr>
-<td width="60%" valign="middle">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=38BDF8&center=false&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Software+Engineer)](https://git.io/typing-svg)
-
-</td>
 <td width="40%" align="center">
 
 <img src="https://media.giphy.com/media/F9hQLAVgWxXbm/giphy.gif" width="220"/>
+
+</td>
+<td width="60%" valign="middle">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=38BDF8&center=false&vCenter=true&width=600&lines=Full-Stack+Web+Developer;React+%2B+Next.js+%7C+Node.js+%2B+PostgreSQL;Turning+ideas+into+seamless+digital+experiences;Currently+studying+Software+Engineering)](https://git.io/typing-svg)
 
 </td>
 </tr>
