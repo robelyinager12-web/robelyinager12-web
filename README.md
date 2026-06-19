@@ -2,16 +2,16 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1E3A5F&height=200&section=header&text=Robel%20Yinager&fontSize=48&fontColor=FFFFFF&fontAlignY=42&desc=Full-Stack%20Web%20Developer&descAlignY=62&descSize=20&descColor=94A3B8&animation=fadeIn" width="100%"/>
 
-<table width="100%" border="0">
+<table border="0">
 <tr>
-<td width="40%" align="center">
+<td align="center">
 
-<img src="https://media.giphy.com/media/F9hQLAVgWxXbm/giphy.gif" width="220"/>
+<img src="https://media.giphy.com/media/F9hQLAVgWxXbm/giphy.gif" width="200"/>
 
 </td>
-<td width="60%" valign="middle">
+<td valign="middle">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=38BDF8&center=false&vCenter=true&width=600&lines=Full-Stack+Web+Developer;React+%2B+Next.js+%7C+Node.js+%2B+PostgreSQL;Turning+ideas+into+seamless+digital+experiences;Currently+studying+Software+Engineering)](https://git.io/typing-svg)
+&nbsp;&nbsp;[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=38BDF8&center=false&vCenter=true&width=480&lines=Full-Stack+Web+Developer;React+%2B+Next.js+%7C+Node.js+%2B+PostgreSQL;Turning+ideas+into+seamless+digital+experiences;Currently+studying+Software+Engineering)](https://git.io/typing-svg)
 
 </td>
 </tr>
