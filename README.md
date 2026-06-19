@@ -15,7 +15,7 @@
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-robelyinager12--web.vercel.app-0F172A?style=for-the-badge&logoColor=white)](https://robelyinager12-web.vercel.app)
 [![Email](https://img.shields.io/badge/EMAIL-robelyinager12%40gmail.com-0F172A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:robelyinager12@gmail.com)
-[![Status](https://img.shields.io/badge/STATUS-Open_to_Freelance_Work-16A34A?style=for-the-badge)]()
+[![Status](https://img.shields.io/badge/STATUS-Open_to_Opportunities-16A34A?style=for-the-badge)]()
 
 </div>
 
@@ -40,8 +40,9 @@ const robel = {
     role: "Full-Stack Web Developer",
     based_in: "Injibara, Ethiopia",
     studying: "B.Sc. Software Engineering — University of Injibara (GPA 3.8/4.0)",
-    freelancing_since: "Feb 2024",
+    building_independently_since: "Feb 2024",
     languages: ["Amharic (Native)", "English (C2 — Fluent)"],
+    currently_learning: ["Python", "TensorFlow", "Kotlin / Android Studio", "AWS Cloud Fundamentals"],
     currently: "Building clean, accessible, production-ready web apps"
 };
 ```
@@ -94,23 +95,78 @@ const robel = {
 
 <br/>
 
-<img src="https://img.shields.io/badge/💼_EXPERIENCE-0F172A?style=for-the-badge&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/🌱_CURRENTLY_EXPLORING-0F172A?style=for-the-badge&logoColor=38BDF8" />
+
+<table width="100%">
+<tr>
+<td valign="top" width="33%" style="border-left: 4px solid #38BDF8; padding-left: 16px;">
+
+**Machine Learning**
+<br/><br/>
+![Python](https://img.shields.io/badge/Python-1E3A5F?style=flat-square) ![NumPy/Pandas](https://img.shields.io/badge/NumPy_%2F_Pandas-1E3A5F?style=flat-square) ![scikit-learn](https://img.shields.io/badge/scikit--learn-1E3A5F?style=flat-square) ![TensorFlow](https://img.shields.io/badge/TensorFlow-1E3A5F?style=flat-square)
+
+Data preprocessing & model evaluation fundamentals
+
+</td>
+<td valign="top" width="33%" style="border-left: 4px solid #16A34A; padding-left: 16px;">
+
+**Android**
+<br/><br/>
+![Kotlin](https://img.shields.io/badge/Kotlin-1E3A5F?style=flat-square) ![Java](https://img.shields.io/badge/Java-1E3A5F?style=flat-square) ![Android Studio](https://img.shields.io/badge/Android_Studio-1E3A5F?style=flat-square) ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-1E3A5F?style=flat-square)
+
+REST API integration on mobile
+
+</td>
+<td valign="top" width="33%" style="border-left: 4px solid #F59E0B; padding-left: 16px;">
+
+**Cloud**
+<br/><br/>
+![AWS](https://img.shields.io/badge/AWS_Fundamentals-1E3A5F?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-1E3A5F?style=flat-square) ![CI/CD](https://img.shields.io/badge/CI%2FCD_Basics-1E3A5F?style=flat-square)
+
+Deployment & scaling concepts
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://img.shields.io/badge/💼_PROJECT_EXPERIENCE-0F172A?style=for-the-badge&logoColor=38BDF8" />
 
 <table width="100%">
 <tr><td style="border-left: 4px solid #38BDF8; padding-left: 16px;">
 
-**Full-Stack Web Developer** — Self-Employed / Freelance
+**Independent Full-Stack Developer** — Self-Directed Learning & Real-World Project Building
 <br/>
 ![Feb 2024 — Present](https://img.shields.io/badge/Feb_2024_--_Present-1E3A5F?style=flat-square)
 
-- Developed and deployed responsive full-stack web apps using React, Next.js, TypeScript, and Node.js
-- Designed and integrated RESTful APIs and PostgreSQL databases for dynamic content and authentication
-- Implemented modern UI/UX with Tailwind CSS, ensuring mobile-first, accessible interfaces
-- Optimized performance through improved code splitting and database query tuning
-- Collaborated with cross-functional teams to deliver client-focused solutions on time
+*Although I have not yet held a formal position with an employer, I've spent the past two years building genuine, end-to-end web applications on my own initiative to develop production-level skills, the way a real client or product team would expect.*
+
+- Designed and deployed multiple full-stack web applications independently using React, Next.js, TypeScript, and Node.js to simulate real production environments
+- Built and integrated RESTful APIs with PostgreSQL and MongoDB for authentication, dynamic content, and data persistence
+- Practiced professional workflows including Git/GitHub version control, code reviews, and structured documentation
+- Improved performance through code splitting, query optimization, and modern, accessible, mobile-first UI/UX with Tailwind CSS
+- Continuously expand my skill set by studying new frameworks and applying concepts directly to project builds
 
 </td></tr>
 </table>
+
+<br/>
+
+<img src="https://img.shields.io/badge/🧩_CORE_COMPETENCIES-0F172A?style=for-the-badge&logoColor=38BDF8" />
+
+<div align="center">
+
+![Problem-Solving](https://img.shields.io/badge/Problem--Solving-1E3A5F?style=flat-square)
+![Self-Motivation](https://img.shields.io/badge/Self--Motivation-1E3A5F?style=flat-square)
+![Adaptability](https://img.shields.io/badge/Adaptability-1E3A5F?style=flat-square)
+![Attention to Detail](https://img.shields.io/badge/Attention_to_Detail-1E3A5F?style=flat-square)
+![Time Management](https://img.shields.io/badge/Time_Management-1E3A5F?style=flat-square)
+![Clear Communication](https://img.shields.io/badge/Clear_Communication-1E3A5F?style=flat-square)
+![Team Collaboration](https://img.shields.io/badge/Team_Collaboration-1E3A5F?style=flat-square)
+![Continuous Learning](https://img.shields.io/badge/Continuous_Learning-1E3A5F?style=flat-square)
+
+</div>
 
 <br/>
 
