@@ -25,6 +25,12 @@
 
 <br/>
 
+<div align="center">
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="500"/>
+</div>
+
+<br/>
+
 ## 🧭 About
 
 I'm a creative Full-Stack Web Developer who turns ideas into seamless digital experiences. I love building modern, responsive, user-friendly applications from the ground up — crafting intuitive frontends with **React** and **Next.js**, and robust backends with **Node.js** and **PostgreSQL**.
