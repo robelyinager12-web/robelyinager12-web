@@ -145,6 +145,10 @@ University of Injibara, Ethiopia
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=robelyinager12-web&theme=dark&hide_border=true&background=0F172A&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8"/>
 
+<br/>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=robelyinager12-web&bg_color=0F172A&color=38BDF8&line=38BDF8&point=FFFFFF&area=true&area_color=1E3A5F&hide_border=true&custom_title=Contribution+Graph&title_color=38BDF8)](https://github.com/robelyinager12-web)
+
 </div>
 
 <br/>
