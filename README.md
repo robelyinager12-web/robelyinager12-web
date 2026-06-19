@@ -8,7 +8,7 @@
 <img src="https://media.giphy.com/media/F9hQLAVgWxXbm/giphy.gif" width="200" />
 </td>
 <td align="left" valign="middle">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=38BDF8&center=false&vCenter=true&width=480&lines=Full-Stack+Web+Developer;React+%2B+Next.js+%7C+Node.js+%2B+PostgreSQL;Turning+ideas+into+seamless+digital+experiences;Currently+studying+Software+Engineering" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&color=38BDF8&center=false&vCenter=true&width=400&lines=Software+Engineer;Software+Developer" />
 </td>
 </tr>
 </table>
