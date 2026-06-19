@@ -1,39 +1,87 @@
-# Hi, I'm Robel Yinager 👋
+<div align="center">
 
-**Full-Stack Web Developer** based in Injibara, Ethiopia — I turn ideas into seamless digital experiences, blending clean design with solid engineering.
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-robelyinager12--web.vercel.app-1a1a2e?style=flat-square)](https://robelyinager12-web.vercel.app)
-[![Email](https://img.shields.io/badge/Email-robelyinager12%40gmail.com-1a1a2e?style=flat-square)](mailto:robelyinager12@gmail.com)
-[![Status](https://img.shields.io/badge/Available_for-Freelance_Work-2e7d32?style=flat-square)]()
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1E3A5F&height=200&section=header&text=Robel%20Yinager&fontSize=48&fontColor=FFFFFF&fontAlignY=42&desc=Full-Stack%20Web%20Developer&descAlignY=62&descSize=20&descColor=94A3B8&animation=fadeIn" width="100%"/>
 
 <br/>
 
-## About
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-robelyinager12--web.vercel.app-0F172A?style=for-the-badge&logoColor=white)](https://robelyinager12-web.vercel.app)
+[![Email](https://img.shields.io/badge/EMAIL-robelyinager12%40gmail.com-0F172A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:robelyinager12@gmail.com)
+[![Status](https://img.shields.io/badge/STATUS-Open_to_Freelance_Work-16A34A?style=for-the-badge)]()
 
-I love building modern, responsive, user-friendly web applications from the ground up — intuitive frontends with **React** and **Next.js**, paired with robust backends in **Node.js** and **PostgreSQL**. I'm currently a Software Engineering student, always curious, and I thrive in collaborative environments where clean code meets thoughtful design.
-
-- 🎓 B.Sc. Software Engineering, University of Injibara — GPA 3.8/4.0
-- 💼 Freelance Full-Stack Developer since Feb 2024
-- 🗣️ Amharic (native), English (fluent, C2)
+</div>
 
 <br/>
 
-## Skills
+## 🧭 About
 
-| Frontend | Backend | Tools |
-|---|---|---|
-| React / Next.js | Node.js / Express | Git / GitHub |
-| TypeScript / JavaScript | NestJS | VS Code |
-| Tailwind CSS | PostgreSQL | Postman |
-| HTML & CSS | GraphQL / REST | Docker |
-| | MongoDB | Figma · Vercel |
+I'm a creative Full-Stack Web Developer who turns ideas into seamless digital experiences. I love building modern, responsive, user-friendly applications from the ground up — crafting intuitive frontends with **React** and **Next.js**, and robust backends with **Node.js** and **PostgreSQL**.
+
+```
+const robel = {
+    role: "Full-Stack Web Developer",
+    based_in: "Injibara, Ethiopia",
+    studying: "B.Sc. Software Engineering — University of Injibara (GPA 3.8/4.0)",
+    freelancing_since: "Feb 2024",
+    languages: ["Amharic (Native)", "English (C2 — Fluent)"],
+    currently: "Building clean, accessible, production-ready web apps"
+};
+```
 
 <br/>
 
-## Experience
+## 🧱 Tech Stack
 
-**Full-Stack Web Developer** · Self-Employed / Freelance
-*Feb 2024 — Present*
+<table width="100%">
+<tr>
+<td valign="top" width="33%">
+
+**Frontend**
+<br/><br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" title="React"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="36" title="Next.js"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="36" title="TypeScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" title="JavaScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="36" title="Tailwind CSS"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="36" title="HTML5"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="36" title="CSS3"/>
+
+</td>
+<td valign="top" width="33%">
+
+**Backend**
+<br/><br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36" title="Node.js"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="36" title="Express"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="36" title="NestJS"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="36" title="GraphQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="36" title="PostgreSQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="36" title="MongoDB"/>
+
+</td>
+<td valign="top" width="33%">
+
+**Tools**
+<br/><br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" title="Git"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="36" title="GitHub"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="36" title="Docker"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="36" title="Figma"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="36" title="Postman"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="36" title="VS Code"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 💼 Experience
+
+<table width="100%">
+<tr><td>
+
+**Full-Stack Web Developer** — Self-Employed / Freelance
+`Feb 2024 — Present`
 
 - Developed and deployed responsive full-stack web apps using React, Next.js, TypeScript, and Node.js
 - Designed and integrated RESTful APIs and PostgreSQL databases for dynamic content and authentication
@@ -41,34 +89,60 @@ I love building modern, responsive, user-friendly web applications from the grou
 - Optimized performance through improved code splitting and database query tuning
 - Collaborated with cross-functional teams to deliver client-focused solutions on time
 
-<br/>
-
-## Certifications
-
-- **AI Fundamentals** — Udacity, Global Chapters Ethiopia (in partnership with the 5 Million Ethiopian Coders Initiative & Ministry of Labor and Skills) — *March 2026*
-- **Programming Fundamentals (Nanodegree)** — Udacity, Global Chapters Ethiopia — *February 2026*
+</td></tr>
+</table>
 
 <br/>
 
-## GitHub Activity
+## 🎓 Education & Certifications
+
+<table width="100%">
+<tr>
+<td valign="top" width="50%">
+
+**B.Sc. Software Engineering**
+University of Injibara, Ethiopia
+`2022 — Present` · GPA 3.8/4.0
+
+*Coursework:* Web Development, Database Systems, Data Structures & Algorithms, Software Design, UI/UX Principles, OOP
+
+</td>
+<td valign="top" width="50%">
+
+**Certifications**
+- AI Fundamentals — Udacity *(Mar 2026)*
+- Programming Fundamentals Nanodegree — Udacity *(Feb 2026)*
+
+*Global Chapters Ethiopia, in partnership with the 5 Million Ethiopian Coders Initiative & Ministry of Labor and Skills*
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=robelyinager12-web&show_icons=true&theme=default&hide_border=true&hide_title=true&include_all_commits=true&count_private=true&icon_color=2e7d32&text_color=333333&title_color=2e7d32"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robelyinager12-web&layout=compact&theme=default&hide_border=true&hide_title=true&icon_color=2e7d32&text_color=333333&title_color=2e7d32"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=robelyinager12-web&show_icons=true&theme=dark&hide_border=true&bg_color=0F172A&title_color=38BDF8&icon_color=38BDF8&text_color=CBD5E1&include_all_commits=true&count_private=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robelyinager12-web&layout=compact&theme=dark&hide_border=true&bg_color=0F172A&title_color=38BDF8&text_color=CBD5E1"/>
 
-</div>
+<br/>
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=robelyinager12-web&theme=default&hide_border=true&background=FFFFFF&ring=2e7d32&fire=2e7d32&currStreakLabel=2e7d32"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=robelyinager12-web&theme=dark&hide_border=true&background=0F172A&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8"/>
 
 </div>
 
 <br/>
 
-## Let's Connect
+<div align="center">
 
-📧 [robelyinager12@gmail.com](mailto:robelyinager12@gmail.com) · 🌐 [robelyinager12-web.vercel.app](https://robelyinager12-web.vercel.app)
+### 📫 Let's build something
 
-<sub>![Profile Views](https://komarev.com/ghpvc/?username=robelyinager12-web&style=flat-square&color=2e7d32&label=profile+views)</sub>
+[![Portfolio](https://img.shields.io/badge/Visit_Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white)](https://robelyinager12-web.vercel.app)
+[![Email](https://img.shields.io/badge/Send_an_Email-0F172A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:robelyinager12@gmail.com)
+
+<sub>![Profile Views](https://komarev.com/ghpvc/?username=robelyinager12-web&style=flat-square&color=38BDF8&label=profile+views)</sub>
+
+</div>
