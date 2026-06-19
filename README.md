@@ -4,15 +4,11 @@
 
 <table border="0">
 <tr>
-<td align="center">
-
-<img src="https://media.giphy.com/media/F9hQLAVgWxXbm/giphy.gif" width="200"/>
-
+<td align="center" valign="middle">
+<img src="https://media.giphy.com/media/F9hQLAVgWxXbm/giphy.gif" width="200" />
 </td>
-<td valign="middle">
-
-&nbsp;&nbsp;[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=38BDF8&center=false&vCenter=true&width=480&lines=Full-Stack+Web+Developer;React+%2B+Next.js+%7C+Node.js+%2B+PostgreSQL;Turning+ideas+into+seamless+digital+experiences;Currently+studying+Software+Engineering)](https://git.io/typing-svg)
-
+<td align="left" valign="middle">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=38BDF8&center=false&vCenter=true&width=480&lines=Full-Stack+Web+Developer;React+%2B+Next.js+%7C+Node.js+%2B+PostgreSQL;Turning+ideas+into+seamless+digital+experiences;Currently+studying+Software+Engineering" />
 </td>
 </tr>
 </table>
