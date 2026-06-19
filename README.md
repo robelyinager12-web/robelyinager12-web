@@ -21,17 +21,21 @@
 
 <br/>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:1E3A5F,100:0F172A&height=3&section=header" width="100%"/>
+
+<br/>
+
 <div align="center">
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="500"/>
 </div>
 
 <br/>
 
-## 🧭 About
+<img src="https://img.shields.io/badge/🧭_ABOUT-0F172A?style=for-the-badge&logoColor=38BDF8" />
 
 I'm a creative Full-Stack Web Developer who turns ideas into seamless digital experiences. I love building modern, responsive, user-friendly applications from the ground up — crafting intuitive frontends with **React** and **Next.js**, and robust backends with **Node.js** and **PostgreSQL**.
 
-```
+```js
 const robel = {
     role: "Full-Stack Web Developer",
     based_in: "Injibara, Ethiopia",
@@ -44,13 +48,13 @@ const robel = {
 
 <br/>
 
-## 🧱 Tech Stack
+<img src="https://img.shields.io/badge/🧱_TECH_STACK-0F172A?style=for-the-badge&logoColor=38BDF8" />
 
 <table width="100%">
 <tr>
 <td valign="top" width="33%">
 
-**Frontend**
+![Frontend](https://img.shields.io/badge/Frontend-38BDF8?style=flat-square&logoColor=white)
 <br/><br/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" title="React"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="36" title="Next.js"/>
@@ -63,7 +67,7 @@ const robel = {
 </td>
 <td valign="top" width="33%">
 
-**Backend**
+![Backend](https://img.shields.io/badge/Backend-16A34A?style=flat-square&logoColor=white)
 <br/><br/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36" title="Node.js"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="36" title="Express"/>
@@ -75,7 +79,7 @@ const robel = {
 </td>
 <td valign="top" width="33%">
 
-**Tools**
+![Tools](https://img.shields.io/badge/Tools-F59E0B?style=flat-square&logoColor=white)
 <br/><br/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" title="Git"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="36" title="GitHub"/>
@@ -90,13 +94,14 @@ const robel = {
 
 <br/>
 
-## 💼 Experience
+<img src="https://img.shields.io/badge/💼_EXPERIENCE-0F172A?style=for-the-badge&logoColor=38BDF8" />
 
 <table width="100%">
-<tr><td>
+<tr><td style="border-left: 4px solid #38BDF8; padding-left: 16px;">
 
 **Full-Stack Web Developer** — Self-Employed / Freelance
-`Feb 2024 — Present`
+<br/>
+![Feb 2024 — Present](https://img.shields.io/badge/Feb_2024_--_Present-1E3A5F?style=flat-square)
 
 - Developed and deployed responsive full-stack web apps using React, Next.js, TypeScript, and Node.js
 - Designed and integrated RESTful APIs and PostgreSQL databases for dynamic content and authentication
@@ -109,24 +114,25 @@ const robel = {
 
 <br/>
 
-## 🎓 Education & Certifications
+<img src="https://img.shields.io/badge/🎓_EDUCATION_&_CERTIFICATIONS-0F172A?style=for-the-badge&logoColor=38BDF8" />
 
 <table width="100%">
 <tr>
-<td valign="top" width="50%">
+<td valign="top" width="50%" style="border-left: 4px solid #38BDF8; padding-left: 16px;">
 
 **B.Sc. Software Engineering**
 University of Injibara, Ethiopia
-`2022 — Present` · GPA 3.8/4.0
+<br/>
+![2022 — Present](https://img.shields.io/badge/2022_--_Present-1E3A5F?style=flat-square) ![GPA 3.8/4.0](https://img.shields.io/badge/GPA-3.8%2F4.0-16A34A?style=flat-square)
 
 *Coursework:* Web Development, Database Systems, Data Structures & Algorithms, Software Design, UI/UX Principles, OOP
 
 </td>
-<td valign="top" width="50%">
+<td valign="top" width="50%" style="border-left: 4px solid #16A34A; padding-left: 16px;">
 
 **Certifications**
-- AI Fundamentals — Udacity *(Mar 2026)*
-- Programming Fundamentals Nanodegree — Udacity *(Feb 2026)*
+- 🏅 AI Fundamentals — Udacity ![Mar 2026](https://img.shields.io/badge/Mar_2026-1E3A5F?style=flat-square)
+- 🏅 Programming Fundamentals Nanodegree — Udacity ![Feb 2026](https://img.shields.io/badge/Feb_2026-1E3A5F?style=flat-square)
 
 *Global Chapters Ethiopia, in partnership with the 5 Million Ethiopian Coders Initiative & Ministry of Labor and Skills*
 
@@ -136,7 +142,7 @@ University of Injibara, Ethiopia
 
 <br/>
 
-## 📊 GitHub Activity
+<img src="https://img.shields.io/badge/📊_GITHUB_ACTIVITY-0F172A?style=for-the-badge&logoColor=38BDF8" />
 
 <div align="center">
 
@@ -155,13 +161,17 @@ University of Injibara, Ethiopia
 
 <br/>
 
-## 🏆 Trophies
+<img src="https://img.shields.io/badge/🏆_TROPHIES-0F172A?style=for-the-badge&logoColor=38BDF8" />
 
 <div align="center">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=robelyinager12-web&theme=darkhub&no-frame=true&column=4&margin-w=10&margin-h=10)](https://github.com/robelyinager12-web)
 
 </div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:1E3A5F,100:0F172A&height=3&section=header" width="100%"/>
 
 <br/>
 
