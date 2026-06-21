@@ -5,10 +5,10 @@
 <table border="0">
 <tr>
 <td align="center" valign="middle">
-<img src="https://media.giphy.com/media/F9hQLAVgWxXbm/giphy.gif" width="200" />
+<img src="./assets/profile.png" width="200" style="border-radius: 12px;" />
 </td>
 <td align="left" valign="middle">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&color=38BDF8&center=false&vCenter=true&width=400&lines=Full-Stack+Web+Developer;React+%2F+Next.js+%2F+Node.js;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&color=38BDF8&center=false&vCenter=true&width=400&lines=Software+Engineer;Software+Developer" />
 </td>
 </tr>
 </table>
@@ -22,6 +22,12 @@
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:1E3A5F,100:0F172A&height=3&section=header" width="100%"/>
+
+<br/>
+
+<div align="center">
+<img src="./assets/coding-banner.svg" width="600"/>
+</div>
 
 <br/>
 
