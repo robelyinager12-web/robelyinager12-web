@@ -8,7 +8,7 @@
 <img src="https://media.giphy.com/media/F9hQLAVgWxXbm/giphy.gif" width="200" />
 </td>
 <td align="left" valign="middle">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&color=38BDF8&center=false&vCenter=true&width=400&lines=Software+Engineer;Software+Developer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&color=38BDF8&center=false&vCenter=true&width=400&lines=Full-Stack+Web+Developer;React+%2F+Next.js+%2F+Node.js;Always+Learning+Something+New" />
 </td>
 </tr>
 </table>
@@ -25,24 +25,18 @@
 
 <br/>
 
-<div align="center">
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="500"/>
-</div>
-
-<br/>
-
 <img src="https://img.shields.io/badge/🧭_ABOUT-0F172A?style=for-the-badge&logoColor=38BDF8" />
 
-I'm a creative Full-Stack Web Developer who turns ideas into seamless digital experiences. I love building modern, responsive, user-friendly applications from the ground up — crafting intuitive frontends with **React** and **Next.js**, and robust backends with **Node.js** and **PostgreSQL**.
+Creative Full-Stack Web Developer who turns ideas into seamless digital experiences — crafting intuitive frontends with **React** and **Next.js**, and robust backends with **Node.js** and **PostgreSQL**. Curious, self-driven, and always learning.
 
 ```js
 const robel = {
     role: "Full-Stack Web Developer",
     based_in: "Injibara, Ethiopia",
-    studying: "B.Sc. Software Engineering — University of Injibara (GPA 3.8/4.0)",
+    studying: "B.Sc. Software Engineering — University of Injibara",
     building_independently_since: "Feb 2024",
     languages: ["Amharic (Native)", "English (C2 — Fluent)"],
-    currently_learning: ["Python", "TensorFlow", "Kotlin / Android Studio", "AWS Cloud Fundamentals"],
+    currently_exploring: ["Python", "TensorFlow", "Kotlin / Android Studio", "AWS Cloud Fundamentals"],
     currently: "Building clean, accessible, production-ready web apps"
 };
 ```
@@ -57,13 +51,14 @@ const robel = {
 
 ![Frontend](https://img.shields.io/badge/Frontend-38BDF8?style=flat-square&logoColor=white)
 <br/><br/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" title="React"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="36" title="Next.js"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="36" title="TypeScript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" title="JavaScript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="36" title="Tailwind CSS"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="36" title="HTML5"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="36" title="CSS3"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" title="JavaScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="36" title="TypeScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" title="React"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="36" title="Next.js"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="36" title="Tailwind CSS"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="36" title="Bootstrap"/>
 
 </td>
 <td valign="top" width="33%">
@@ -71,23 +66,57 @@ const robel = {
 ![Backend](https://img.shields.io/badge/Backend-16A34A?style=flat-square&logoColor=white)
 <br/><br/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36" title="Node.js"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="36" title="Express"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="36" title="NestJS"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="36" title="GraphQL"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="36" title="PostgreSQL"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="36" title="MongoDB"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="36" title="Express.js"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="36" title="Firebase"/>
 
 </td>
 <td valign="top" width="33%">
 
-![Tools](https://img.shields.io/badge/Tools-F59E0B?style=flat-square&logoColor=white)
+![Database](https://img.shields.io/badge/Database-F59E0B?style=flat-square&logoColor=white)
+<br/><br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="36" title="MongoDB"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36" title="MySQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="36" title="PostgreSQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-plain.svg" width="36" title="SQLite"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="36" title="Redis"/>
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="33%">
+
+![Tools & DevOps](https://img.shields.io/badge/Tools_%26_DevOps-38BDF8?style=flat-square&logoColor=white)
 <br/><br/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" title="Git"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="36" title="GitHub"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="36" title="Docker"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="36" title="Figma"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="36" title="Linux"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="36" title="Postman"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="36" title="VS Code"/>
+
+</td>
+<td valign="top" width="33%">
+
+![Cloud & Hosting](https://img.shields.io/badge/Cloud_%26_Hosting-16A34A?style=flat-square&logoColor=white)
+<br/><br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="36" title="Firebase"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="36" title="AWS"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="36" title="Google Cloud"/>
+![Vercel](https://img.shields.io/badge/Vercel-1E3A5F?style=flat-square&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-1E3A5F?style=flat-square&logo=netlify&logoColor=white)
+
+</td>
+<td valign="top" width="33%">
+
+![AI & Machine Learning](https://img.shields.io/badge/AI_%26_Machine_Learning-F59E0B?style=flat-square&logoColor=white)
+<br/><br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" title="Python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="36" title="TensorFlow"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="36" title="PyTorch"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="36" title="Pandas"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="36" title="NumPy"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="36" title="Scikit-learn"/>
 
 </td>
 </tr>
@@ -95,7 +124,7 @@ const robel = {
 
 <br/>
 
-<img src="https://img.shields.io/badge/🌱_CURRENTLY_EXPLORING-0F172A?style=for-the-badge&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/🌱_FUTURE_FOCUS-0F172A?style=for-the-badge&logoColor=38BDF8" />
 
 <table width="100%">
 <tr>
@@ -140,13 +169,10 @@ Deployment & scaling concepts
 <br/>
 ![Feb 2024 — Present](https://img.shields.io/badge/Feb_2024_--_Present-1E3A5F?style=flat-square)
 
-*Although I have not yet held a formal position with an employer, I've spent the past two years building genuine, end-to-end web applications on my own initiative to develop production-level skills, the way a real client or product team would expect.*
-
-- Designed and deployed multiple full-stack web applications independently using React, Next.js, TypeScript, and Node.js to simulate real production environments
+- Designed and deployed multiple full-stack apps using React, Next.js, TypeScript, and Node.js to simulate real production environments
 - Built and integrated RESTful APIs with PostgreSQL and MongoDB for authentication, dynamic content, and data persistence
-- Practiced professional workflows including Git/GitHub version control, code reviews, and structured documentation
-- Improved performance through code splitting, query optimization, and modern, accessible, mobile-first UI/UX with Tailwind CSS
-- Continuously expand my skill set by studying new frameworks and applying concepts directly to project builds
+- Practiced professional workflows: Git/GitHub version control, code reviews, and structured documentation
+- Improved performance through code splitting, query optimization, and mobile-first UI/UX with Tailwind CSS
 
 </td></tr>
 </table>
@@ -162,7 +188,7 @@ Deployment & scaling concepts
 ![Adaptability](https://img.shields.io/badge/Adaptability-1E3A5F?style=flat-square)
 ![Attention to Detail](https://img.shields.io/badge/Attention_to_Detail-1E3A5F?style=flat-square)
 ![Time Management](https://img.shields.io/badge/Time_Management-1E3A5F?style=flat-square)
-![Clear Communication](https://img.shields.io/badge/Clear_Communication-1E3A5F?style=flat-square)
+![Communication](https://img.shields.io/badge/Communication-1E3A5F?style=flat-square)
 ![Team Collaboration](https://img.shields.io/badge/Team_Collaboration-1E3A5F?style=flat-square)
 ![Continuous Learning](https://img.shields.io/badge/Continuous_Learning-1E3A5F?style=flat-square)
 
@@ -179,7 +205,7 @@ Deployment & scaling concepts
 **B.Sc. Software Engineering**
 University of Injibara, Ethiopia
 <br/>
-![2022 — Present](https://img.shields.io/badge/2022_--_Present-1E3A5F?style=flat-square) ![GPA 3.8/4.0](https://img.shields.io/badge/GPA-3.8%2F4.0-16A34A?style=flat-square)
+![2022 — Present](https://img.shields.io/badge/2022_--_Present-1E3A5F?style=flat-square)
 
 *Coursework:* Web Development, Database Systems, Data Structures & Algorithms, Software Design, UI/UX Principles, OOP
 
@@ -188,7 +214,7 @@ University of Injibara, Ethiopia
 
 **Certifications**
 - 🏅 AI Fundamentals — Udacity ![Mar 2026](https://img.shields.io/badge/Mar_2026-1E3A5F?style=flat-square)
-- 🏅 Programming Fundamentals Nanodegree — Udacity ![Feb 2026](https://img.shields.io/badge/Feb_2026-1E3A5F?style=flat-square)
+- 🏅 Programming Fundamentals (Nanodegree) — Udacity ![Feb 2026](https://img.shields.io/badge/Feb_2026-1E3A5F?style=flat-square)
 
 *Global Chapters Ethiopia, in partnership with the 5 Million Ethiopian Coders Initiative & Ministry of Labor and Skills*
 
