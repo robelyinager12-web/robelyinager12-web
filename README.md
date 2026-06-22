@@ -31,6 +31,12 @@
 
 <br/>
 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400"/>
+</div>
+
+<br/>
+
 <img src="https://img.shields.io/badge/🧭_ABOUT-0F172A?style=for-the-badge&logoColor=38BDF8" />
 
 Creative Full-Stack Web Developer who turns ideas into seamless digital experiences — crafting intuitive frontends with **React** and **Next.js**, and robust backends with **Node.js** and **PostgreSQL**. Curious, self-driven, and always learning.
