@@ -57,12 +57,10 @@ const robel = {
 
 <img src="https://img.shields.io/badge/🧱_TECH_STACK-0F172A?style=for-the-badge&logoColor=38BDF8" />
 
-<table width="100%">
-<tr>
-<td valign="top" width="33%">
+<br/>
 
-![Frontend](https://img.shields.io/badge/Frontend-38BDF8?style=flat-square&logoColor=white)
-<br/><br/>
+**![Frontend](https://img.shields.io/badge/Frontend-38BDF8?style=flat-square&logoColor=white)**
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="36" title="HTML5"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="36" title="CSS3"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" title="JavaScript"/>
@@ -72,34 +70,29 @@ const robel = {
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="36" title="Tailwind CSS"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="36" title="Bootstrap"/>
 
-</td>
-<td valign="top" width="33%">
-
-![Backend](https://img.shields.io/badge/Backend-16A34A?style=flat-square&logoColor=white)
 <br/><br/>
+
+**![Backend](https://img.shields.io/badge/Backend-16A34A?style=flat-square&logoColor=white)**
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36" title="Node.js"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="36" title="NestJS"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="36" title="Express.js"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="36" title="Firebase"/>
 
-</td>
-<td valign="top" width="33%">
-
-![Database](https://img.shields.io/badge/Database-F59E0B?style=flat-square&logoColor=white)
 <br/><br/>
+
+**![Database](https://img.shields.io/badge/Database-F59E0B?style=flat-square&logoColor=white)**
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="36" title="MongoDB"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36" title="MySQL"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="36" title="PostgreSQL"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-plain.svg" width="36" title="SQLite"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="36" title="Redis"/>
 
-</td>
-</tr>
-<tr>
-<td valign="top" width="33%">
-
-![Tools & DevOps](https://img.shields.io/badge/Tools_%26_DevOps-38BDF8?style=flat-square&logoColor=white)
 <br/><br/>
+
+**![Tools & DevOps](https://img.shields.io/badge/Tools_%26_DevOps-38BDF8?style=flat-square&logoColor=white)**
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" title="Git"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="36" title="GitHub"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="36" title="Docker"/>
@@ -107,32 +100,26 @@ const robel = {
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="36" title="Postman"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="36" title="VS Code"/>
 
-</td>
-<td valign="top" width="33%">
-
-![Cloud & Hosting](https://img.shields.io/badge/Cloud_%26_Hosting-16A34A?style=flat-square&logoColor=white)
 <br/><br/>
+
+**![Cloud & Hosting](https://img.shields.io/badge/Cloud_%26_Hosting-16A34A?style=flat-square&logoColor=white)**
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="36" title="Firebase"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="36" title="AWS"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="36" title="Google Cloud"/>
 ![Vercel](https://img.shields.io/badge/Vercel-1E3A5F?style=flat-square&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-1E3A5F?style=flat-square&logo=netlify&logoColor=white)
 
-</td>
-<td valign="top" width="33%">
-
-![AI & Machine Learning](https://img.shields.io/badge/AI_%26_Machine_Learning-F59E0B?style=flat-square&logoColor=white)
 <br/><br/>
+
+**![AI & Machine Learning](https://img.shields.io/badge/AI_%26_Machine_Learning-F59E0B?style=flat-square&logoColor=white)**
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" title="Python"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="36" title="TensorFlow"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="36" title="PyTorch"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="36" title="Pandas"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="36" title="NumPy"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="36" title="Scikit-learn"/>
-
-</td>
-</tr>
-</table>
 
 <br/>
 
