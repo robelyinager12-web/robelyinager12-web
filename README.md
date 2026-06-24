@@ -2,7 +2,7 @@
 
 # Robel Yinager
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=0077B6&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;Software+Engineer; />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=0077B6&center=true&vCenter=true&width=500&lines=Software+Engineer;Full+Stack+Developer+%7C+MERN+%7C" alt="Typing SVG" />
 
 <br/>
 
