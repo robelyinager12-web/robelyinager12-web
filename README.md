@@ -1,37 +1,46 @@
-<div align="center">
+[6/24/2026 3:44 PM] roba: <div align="center">
 
-# Robel Yinager
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1E3A5F&height=200&section=header&text=Robel%20Yinager&fontSize=48&fontColor=FFFFFF&fontAlignY=42&desc=Full-Stack%20Web%20Developer&descAlignY=62&descSize=20&descColor=94A3B8&animation=fadeIn" width="100%"/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-robelyinager12--web.vercel.app-0077B6?style=for-the-badge&logo=vercel&logoColor=white)](https://robelyinager12-web.vercel.app)
-[![Email](https://img.shields.io/badge/Email-robelyinager12%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:robelyinager12@gmail.com)
-[![Status](https://img.shields.io/badge/Status-Open%20to%20Opportunities-2DA44E?style=for-the-badge&logo=checkmarx&logoColor=white)]()
+<table border="0">
+<tr>
+<td align="center" valign="middle">
+<img src="./assets/profile.png" width="200" style="border-radius: 12px;" />
+</td>
+<td align="left" valign="middle">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&color=38BDF8&center=false&vCenter=true&width=400&lines=Software+Engineer;Software+Developer" />
+</td>
+</tr>
+</table>
+
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-robelyinager12--web.vercel.app-0F172A?style=for-the-badge&logoColor=white)](https://robelyinager12-web.vercel.app)
+[![Email](https://img.shields.io/badge/EMAIL-robelyinager12%40gmail.com-0F172A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:robelyinager12@gmail.com)
+[![Status](https://img.shields.io/badge/STATUS-Open_to_Opportunities-16A34A?style=for-the-badge)]()
 
 </div>
 
 <br/>
 
-<table>
-<tr>
-<td width="50%" valign="middle" align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:1E3A5F,100:0F172A&height=3&section=header" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=0077B6&center=true&vCenter=true&width=500&lines=Software+Engineer;Full+Stack+Developer+%7C+MERN+%7C" alt="Typing SVG" />
+<br/>
 
-</td>
-<td width="50%" align="center">
+<div align="center">
+<img src="./assets/coding-banner.svg" width="600"/>
+</div>
 
-<img src="./assets/dev-illustration.png" width="380" alt="Developer working at a dual-monitor setup"/>
+<br/>
 
-</td>
-</tr>
-</table>
+<div align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding animation"/>
+</div>
 
----
+<br/>
 
-## 👤 About Me
+<img src="https://img.shields.io/badge/🧭_ABOUT-0F172A?style=for-the-badge&logoColor=38BDF8" />
 
-Creative Full-Stack Web Developer who turns ideas into seamless digital experiences — crafting intuitive frontends with **React** and **Next.js**, and robust backends with **Node.js** and **PostgreSQL**. Curious, self-driven, and always learning.
+Creative Full-Stack Web Developer who turns ideas into seamless digital experiences — crafting intuitive frontends with React and Next.js, and robust backends with Node.js and PostgreSQL. Curious, self-driven, and always learning.
 
-```js
 const robel = {
     role: "Full-Stack Web Developer",
     based_in: "Injibara, Ethiopia",
@@ -41,177 +50,228 @@ const robel = {
     currently_exploring: ["Python", "TensorFlow", "Kotlin / Android Studio", "AWS Cloud Fundamentals"],
     currently: "Building clean, accessible, production-ready web apps"
 };
-```
 
----
+<br/>
 
-## 🧱 Tech Stack
+<img src="https://img.shields.io/badge/🧱_TECH_STACK-0F172A?style=for-the-badge&logoColor=38BDF8" />
 
-### 🎨 Frontend
+<br/>
+
+#### 🎨 Frontend
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42" title="HTML5"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42" title="CSS3"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" title="JavaScript"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="42" title="TypeScript"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42" title="React"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="42" title="Next.js"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="42" title="Tailwind CSS"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="42" title="Bootstrap"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" title="TypeScript"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" title="Next.js"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" title="Tailwind CSS"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" title="Bootstrap"/>
 </div>
 
 <br/>
 
-### ⚙️ Backend
+#### ⚙️ Backend
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="42" title="Node.js"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="42" title="NestJS"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="42" title="Express.js"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="42" title="Firebase"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="40" title="NestJS"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="40" title="Express.js"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" title="Firebase"/>
 </div>
 
 <br/>
 
-### 🗄️ Database
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="42" title="MongoDB"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="42" title="MySQL"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="42" title="PostgreSQL"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-plain.svg" width="42" title="SQLite"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="42" title="Redis"/>
+#### 🗄 Database
+[6/24/2026 3:44 PM] roba: <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" title="MongoDB"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-plain.svg" width="40" title="SQLite"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" title="Redis"/>
 </div>
 
 <br/>
 
-### 🧰 Tools & DevOps
+#### 🧰 Tools & DevOps
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" title="Git"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42" title="GitHub"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="42" title="Docker"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="42" title="Linux"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="42" title="Postman"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="42" title="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" title="Linux"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" title="Postman"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="VS Code"/>
 </div>
 
 <br/>
 
-### ☁️ Cloud & Hosting
+#### ☁️ Cloud & Hosting
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="42" title="Firebase"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="42" title="AWS"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="42" title="Google Cloud"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="42" title="Vercel"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" width="42" title="Netlify"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" title="Firebase"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" title="AWS"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" title="Google Cloud"/>&nbsp;
+  <img src="https://img.shields.io/badge/Vercel-1E3A5F?style=flat-square&logo=vercel&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Netlify-1E3A5F?style=flat-square&logo=netlify&logoColor=white"/>
 </div>
 
 <br/>
 
-### 🤖 AI & Machine Learning
+#### 🤖 AI & Machine Learning
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" title="Python"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="42" title="TensorFlow"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="42" title="PyTorch"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="42" title="Pandas"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="42" title="NumPy"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="42" title="scikit-learn"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" title="TensorFlow"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" title="PyTorch"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" title="Pandas"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" title="NumPy"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40" title="Scikit-learn"/>
 </div>
 
----
+<br/>
 
-## 🌱 Future Focus
+<img src="https://img.shields.io/badge/🌱_FUTURE_FOCUS-0F172A?style=for-the-badge&logoColor=38BDF8" />
 
-| 🤖 Machine Learning | 📱 Android | ☁️ Cloud |
-|---|---|---|
-| Python · NumPy · Pandas | Kotlin · Java | AWS Fundamentals |
-| scikit-learn · TensorFlow | Android Studio · Jetpack Compose | Docker · CI/CD |
-| Data preprocessing & model evaluation | REST API integration on mobile | Deployment & scaling concepts |
+<table width="100%">
+<tr>
+<td valign="top" width="33%" style="border-left: 4px solid #38BDF8; padding-left: 16px;">
 
----
+Machine Learning
+<br/><br/>
+![Python](https://img.shields.io/badge/Python-1E3A5F?style=flat-square) ![NumPy/Pandas](https://img.shields.io/badge/NumPy_%2F_Pandas-1E3A5F?style=flat-square) ![scikit-learn](https://img.shields.io/badge/scikit--learn-1E3A5F?style=flat-square) ![TensorFlow](https://img.shields.io/badge/TensorFlow-1E3A5F?style=flat-square)
 
-## 💼 Project Experience
+Data preprocessing & model evaluation fundamentals
 
-**Independent Full-Stack Developer** — Self-Directed Learning & Real-World Project Building
-`Feb 2024 — Present`
+</td>
+<td valign="top" width="33%" style="border-left: 4px solid #16A34A; padding-left: 16px;">
+
+Android
+<br/><br/>
+![Kotlin](https://img.shields.io/badge/Kotlin-1E3A5F?style=flat-square) ![Java](https://img.shields.io/badge/Java-1E3A5F?style=flat-square) ![Android Studio](https://img.shields.io/badge/Android_Studio-1E3A5F?style=flat-square) ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-1E3A5F?style=flat-square)
+
+REST API integration on mobile
+[6/24/2026 3:44 PM] roba: </td>
+<td valign="top" width="33%" style="border-left: 4px solid #F59E0B; padding-left: 16px;">
+
+Cloud
+<br/><br/>
+![AWS](https://img.shields.io/badge/AWS_Fundamentals-1E3A5F?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-1E3A5F?style=flat-square) ![CI/CD](https://img.shields.io/badge/CI%2FCD_Basics-1E3A5F?style=flat-square)
+
+Deployment & scaling concepts
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://img.shields.io/badge/💼_PROJECT_EXPERIENCE-0F172A?style=for-the-badge&logoColor=38BDF8" />
+
+<table width="100%">
+<tr><td style="border-left: 4px solid #38BDF8; padding-left: 16px;">
+
+Independent Full-Stack Developer — Self-Directed Learning & Real-World Project Building
+<br/>
+![Feb 2024 — Present](https://img.shields.io/badge/Feb_2024_--_Present-1E3A5F?style=flat-square)
 
 - Designed and deployed multiple full-stack apps using React, Next.js, TypeScript, and Node.js to simulate real production environments
 - Built and integrated RESTful APIs with PostgreSQL and MongoDB for authentication, dynamic content, and data persistence
 - Practiced professional workflows: Git/GitHub version control, code reviews, and structured documentation
 - Improved performance through code splitting, query optimization, and mobile-first UI/UX with Tailwind CSS
 
----
-
-## 🧩 Core Competencies
-
-![Problem-Solving](https://img.shields.io/badge/Problem--Solving-0077B6?style=flat-square)
-![Self-Motivation](https://img.shields.io/badge/Self--Motivation-0077B6?style=flat-square)
-![Adaptability](https://img.shields.io/badge/Adaptability-0077B6?style=flat-square)
-![Attention to Detail](https://img.shields.io/badge/Attention_to_Detail-0077B6?style=flat-square)
-![Time Management](https://img.shields.io/badge/Time_Management-0077B6?style=flat-square)
-![Communication](https://img.shields.io/badge/Communication-0077B6?style=flat-square)
-![Team Collaboration](https://img.shields.io/badge/Team_Collaboration-0077B6?style=flat-square)
-![Continuous Learning](https://img.shields.io/badge/Continuous_Learning-0077B6?style=flat-square)
-
----
-
-## 🎓 Education & Certifications
-
-**B.Sc. Software Engineering**
-University of Injibara, Ethiopia · `2022 — Present`
-
-*Coursework:* Web Development · Database Systems · Data Structures & Algorithms · Software Design · UI/UX Principles · OOP
-
-**Certifications** *(via Udacity — Global Chapters Ethiopia, in partnership with the 5 Million Ethiopian Coders Initiative & Ministry of Labor and Skills)*
-
-| Certificate | Issuer | Date |
-|---|---|---|
-| 🏅 Android Fundamentals | Udacity | Jun 2026 |
-| 🏅 Data Fundamentals | Udacity | Jun 2026 |
-| 🏅 AI Fundamentals | Udacity | Mar 2026 |
-| 🏅 Programming Fundamentals (Nanodegree) | Udacity | Feb 2026 |
-
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=robelyinager12-web&show_icons=true&theme=default&hide_border=false&title_color=0077B6&icon_color=0077B6&include_all_commits=true&count_private=true"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robelyinager12-web&layout=donut&theme=default&hide_border=false&title_color=0077B6"/>
+</td></tr>
+</table>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=robelyinager12-web&theme=default&hide_border=false&ring=0077B6&fire=E85D04&currStreakLabel=0077B6"/>
+<img src="https://img.shields.io/badge/🧩_CORE_COMPETENCIES-0F172A?style=for-the-badge&logoColor=38BDF8" />
+
+<div align="center">
+
+![Problem-Solving](https://img.shields.io/badge/Problem--Solving-1E3A5F?style=flat-square)
+![Self-Motivation](https://img.shields.io/badge/Self--Motivation-1E3A5F?style=flat-square)
+![Adaptability](https://img.shields.io/badge/Adaptability-1E3A5F?style=flat-square)
+![Attention to Detail](https://img.shields.io/badge/Attention_to_Detail-1E3A5F?style=flat-square)
+![Time Management](https://img.shields.io/badge/Time_Management-1E3A5F?style=flat-square)
+![Communication](https://img.shields.io/badge/Communication-1E3A5F?style=flat-square)
+![Team Collaboration](https://img.shields.io/badge/Team_Collaboration-1E3A5F?style=flat-square)
+![Continuous Learning](https://img.shields.io/badge/Continuous_Learning-1E3A5F?style=flat-square)
+
+</div>
 
 <br/>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=robelyinager12-web&color=0077B6&line=0077B6&point=E85D04&area=true&hide_border=false&custom_title=Contribution+Graph&title_color=0077B6)](https://github.com/robelyinager12-web)
+<img src="https://img.shields.io/badge/🎓_EDUCATION_&_CERTIFICATIONS-0F172A?style=for-the-badge&logoColor=38BDF8" />
 
-</div>
+<table width="100%">
+<tr>
+<td valign="top" width="50%" style="border-left: 4px solid #38BDF8; padding-left: 16px;">
 
----
+B.Sc. Software Engineering
+University of Injibara, Ethiopia
+<br/>
+![2022 — Present](https://img.shields.io/badge/2022_--_Present-1E3A5F?style=flat-square)
 
-## 🏆 GitHub Trophies
+*Coursework:* Web Development, Database Systems, Data Structures & Algorithms, Software Design, UI/UX Principles, OOP
+
+</td>
+<td valign="top" width="50%" style="border-left: 4px solid #16A34A; padding-left: 16px;">
+
+Certifications
+- 🏅 Android Fundamentals — Udacity ![Jun 2026](https://img.shields.io/badge/Jun_2026-1E3A5F?style=flat-square)
+- 🏅 Data Fundamentals — Udacity ![Jun 2026](https://img.shields.io/badge/Jun_2026-1E3A5F?style=flat-square)
+- 🏅 AI Fundamentals — Udacity ![Mar 2026](https://img.shields.io/badge/Mar_2026-1E3A5F?style=flat-square)
+- 🏅 Programming Fundamentals (Nanodegree) — Udacity ![Feb 2026](https://img.shields.io/badge/Feb_2026-1E3A5F?style=flat-square)
+
+*Global Chapters Ethiopia, in partnership with the 5 Million Ethiopian Coders Initiative & Ministry of Labor and Skills*
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://img.shields.io/badge/📊_GITHUB_ACTIVITY-0F172A?style=for-the-badge&logoColor=38BDF8" />
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=robelyinager12-web&theme=flat&no-frame=false&column=4&margin-w=10&margin-h=10)](https://github.com/robelyinager12-web)
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=robelyinager12-web&show_icons=true&theme=dark&hide_border=true&bg_color=0F172A&title_color=38BDF8&icon_color=38BDF8&text_color=CBD5E1&include_all_commits=true&count_private=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robelyinager12-web&layout=compact&theme=dark&hide_border=true&bg_color=0F172A&title_color=38BDF8&text_color=CBD5E1"/>
+
+<br/>
+[6/24/2026 3:44 PM] roba: <img src="https://github-readme-streak-stats.herokuapp.com?user=robelyinager12-web&theme=dark&hide_border=true&background=0F172A&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8"/>
+
+<br/>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=robelyinager12-web&bg_color=0F172A&color=38BDF8&line=38BDF8&point=FFFFFF&area=true&area_color=1E3A5F&hide_border=true&custom_title=Contribution+Graph&title_color=38BDF8)](https://github.com/robelyinager12-web)
 
 </div>
 
----
+<br/>
+
+<img src="https://img.shields.io/badge/🏆_TROPHIES-0F172A?style=for-the-badge&logoColor=38BDF8" />
 
 <div align="center">
 
-### 📫 Let's Build Something
+[![trophy](https://github-profile-trophy.vercel.app/?username=robelyinager12-web&theme=darkhub&no-frame=true&column=4&margin-w=10&margin-h=10)](https://github.com/robelyinager12-web)
 
-[![Portfolio](https://img.shields.io/badge/Visit_Portfolio-0077B6?style=for-the-badge&logo=vercel&logoColor=white)](https://robelyinager12-web.vercel.app)
-[![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:robelyinager12@gmail.com)
+</div>
 
-<sub>![Profile Views](https://komarev.com/ghpvc/?username=robelyinager12-web&style=flat-square&color=0077B6&label=profile+views)</sub>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:1E3A5F,100:0F172A&height=3&section=header" width="100%"/>
+
+<br/>
+
+<div align="center">
+
+### 📫 Let's build something
+
+[![Portfolio](https://img.shields.io/badge/Visit_Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white)](https://robelyinager12-web.vercel.app)
+[![Email](https://img.shields.io/badge/Send_an_Email-0F172A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:robelyinager12@gmail.com)
+
+<sub>![Profile Views](https://komarev.com/ghpvc/?username=robelyinager12-web&style=flat-square&color=38BDF8&label=profile+views)</sub>
 
 </div>
