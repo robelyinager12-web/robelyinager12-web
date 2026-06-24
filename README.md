@@ -224,6 +224,8 @@ University of Injibara, Ethiopia
 <td valign="top" width="50%" style="border-left: 4px solid #16A34A; padding-left: 16px;">
 
 **Certifications**
+- 🏅 Android Fundamentals — Udacity ![Jun 2026](https://img.shields.io/badge/Jun_2026-1E3A5F?style=flat-square)
+- 🏅 Data Fundamentals — Udacity ![Jun 2026](https://img.shields.io/badge/Jun_2026-1E3A5F?style=flat-square)
 - 🏅 AI Fundamentals — Udacity ![Mar 2026](https://img.shields.io/badge/Mar_2026-1E3A5F?style=flat-square)
 - 🏅 Programming Fundamentals (Nanodegree) — Udacity ![Feb 2026](https://img.shields.io/badge/Feb_2026-1E3A5F?style=flat-square)
 
