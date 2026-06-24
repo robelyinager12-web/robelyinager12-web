@@ -10,6 +10,10 @@
 [![Email](https://img.shields.io/badge/Email-robelyinager12%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:robelyinager12@gmail.com)
 [![Status](https://img.shields.io/badge/Status-Open%20to%20Opportunities-2DA44E?style=for-the-badge&logo=checkmarx&logoColor=white)]()
 
+<br/>
+
+<img src="./assets/dev-illustration.png" width="420" alt="Developer working at a dual-monitor setup"/>
+
 </div>
 
 ---
