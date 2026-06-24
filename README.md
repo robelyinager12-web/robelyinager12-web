@@ -2,19 +2,28 @@
 
 # Robel Yinager
 
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="middle">
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=0077B6&center=true&vCenter=true&width=500&lines=Software+Engineer;Full+Stack+Developer+%7C+MERN+%7C" alt="Typing SVG" />
 
-<br/>
+<br/><br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-robelyinager12--web.vercel.app-0077B6?style=for-the-badge&logo=vercel&logoColor=white)](https://robelyinager12-web.vercel.app)
 [![Email](https://img.shields.io/badge/Email-robelyinager12%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:robelyinager12@gmail.com)
 [![Status](https://img.shields.io/badge/Status-Open%20to%20Opportunities-2DA44E?style=for-the-badge&logo=checkmarx&logoColor=white)]()
 
-<br/>
+</td>
+<td width="50%" align="center">
 
-<img src="./assets/dev-illustration.png" width="420" alt="Developer working at a dual-monitor setup"/>
+<img src="./assets/dev-illustration.png" width="380" alt="Developer working at a dual-monitor setup"/>
 
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
