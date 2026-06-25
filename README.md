@@ -1,4 +1,4 @@
-[6/24/2026 4:53 PM] roba: <div align="center">
+<div align="center">
 
 # Robel Yinager
 
@@ -19,7 +19,7 @@
 </td>
 <td width="50%" align="center">
 
-<img src="./assets/dev-illustration.png" width="380" alt="Developer working at a dual-monitor setup"/>
+<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="380" alt="Developer working at a dual-monitor setup"/>
 
 </td>
 </tr>
@@ -31,6 +31,7 @@
 
 Creative Full-Stack Web Developer who turns ideas into seamless digital experiences — crafting intuitive frontends with React and Next.js, and robust backends with Node.js and PostgreSQL. Curious, self-driven, and always learning.
 
+```js
 const robel = {
     role: "Full-Stack Web Developer",
     based_in: "Injibara, Ethiopia",
@@ -40,6 +41,7 @@ const robel = {
     currently_exploring: ["Python", "TensorFlow", "Kotlin / Android Studio", "AWS Cloud Fundamentals"],
     currently: "Building clean, accessible, production-ready web apps"
 };
+```
 
 ---
 
@@ -84,7 +86,8 @@ const robel = {
 <br/>
 
 ### 🧰 Tools & DevOps
-[6/24/2026 4:53 PM] roba: <div align="left">
+
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" title="Git"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42" title="GitHub"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="42" title="Docker"/>&nbsp;
@@ -132,7 +135,7 @@ const robel = {
 
 ## 💼 Project Experience
 
-Independent Full-Stack Developer — Self-Directed Learning & Real-World Project Building
+**Independent Full-Stack Developer — Self-Directed Learning & Real-World Project Building**
 Feb 2024 — Present
 
 - Designed and deployed multiple full-stack apps using React, Next.js, TypeScript, and Node.js to simulate real production environments
@@ -156,12 +159,13 @@ Feb 2024 — Present
 ---
 
 ## 🎓 Education & Certifications
-[6/24/2026 4:53 PM] roba: B.Sc. Software Engineering
+
+**B.Sc. Software Engineering**
 University of Injibara, Ethiopia · 2022 — Present
 
 *Coursework:* Web Development · Database Systems · Data Structures & Algorithms · Software Design · UI/UX Principles · OOP
 
-Certifications *(via Udacity — Global Chapters Ethiopia, in partnership with the 5 Million Ethiopian Coders Initiative & Ministry of Labor and Skills)*
+**Certifications** *(via Udacity — Global Chapters Ethiopia, in partnership with the 5 Million Ethiopian Coders Initiative & Ministry of Labor and Skills)*
 
 | Certificate | Issuer | Date |
 |---|---|---|
