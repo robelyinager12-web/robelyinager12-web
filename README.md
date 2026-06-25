@@ -2,9 +2,9 @@
 
 # Robel Yinager
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-robelyinager12--web.vercel.app-0077B6?style=for-the-badge&logo=vercel&logoColor=white)](https://robelyinager12-web.vercel.app)
-[![Email](https://img.shields.io/badge/Email-robelyinager12%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:robelyinager12@gmail.com)
-[![Status](https://img.shields.io/badge/Status-Open%20to%20Opportunities-2DA44E?style=for-the-badge&logo=checkmarx&logoColor=white)]()
+[![Portfolio](https://img.shields.io/badge/Portfolio-robelyinager12--web.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://robelyinager12-web.vercel.app)
+[![Email](https://img.shields.io/badge/Email-robelyinager12%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:robelyinager12@gmail.com)
+[![Status](https://img.shields.io/badge/Status-Open%20to%20Opportunities-238636?style=for-the-badge&logo=checkmarx&logoColor=white)]()
 
 </div>
 
@@ -14,7 +14,7 @@
 <tr>
 <td width="50%" valign="middle" align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=0077B6&center=true&vCenter=true&width=500&lines=Software+Engineer;Full+Stack+Developer+%7C+MERN+%7C" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=2F80ED&center=true&vCenter=true&width=500&lines=Software+Engineer;Full+Stack+Developer+%7C+MERN+%7C" alt="Typing SVG" />
 
 </td>
 <td width="50%" align="center">
@@ -149,14 +149,14 @@ Feb 2024 — Present
 
 ## 🧩 Core Competencies
 
-![Problem-Solving](https://img.shields.io/badge/Problem--Solving-0077B6?style=flat-square)
-![Self-Motivation](https://img.shields.io/badge/Self--Motivation-0077B6?style=flat-square)
-![Adaptability](https://img.shields.io/badge/Adaptability-0077B6?style=flat-square)
-![Attention to Detail](https://img.shields.io/badge/Attention_to_Detail-0077B6?style=flat-square)
-![Time Management](https://img.shields.io/badge/Time_Management-0077B6?style=flat-square)
-![Communication](https://img.shields.io/badge/Communication-0077B6?style=flat-square)
-![Team Collaboration](https://img.shields.io/badge/Team_Collaboration-0077B6?style=flat-square)
-![Continuous Learning](https://img.shields.io/badge/Continuous_Learning-0077B6?style=flat-square)
+![Problem-Solving](https://img.shields.io/badge/Problem--Solving-21262D?style=flat-square&logoColor=white)
+![Self-Motivation](https://img.shields.io/badge/Self--Motivation-21262D?style=flat-square&logoColor=white)
+![Adaptability](https://img.shields.io/badge/Adaptability-21262D?style=flat-square&logoColor=white)
+![Attention to Detail](https://img.shields.io/badge/Attention_to_Detail-21262D?style=flat-square&logoColor=white)
+![Time Management](https://img.shields.io/badge/Time_Management-21262D?style=flat-square&logoColor=white)
+![Communication](https://img.shields.io/badge/Communication-21262D?style=flat-square&logoColor=white)
+![Team Collaboration](https://img.shields.io/badge/Team_Collaboration-21262D?style=flat-square&logoColor=white)
+![Continuous Learning](https://img.shields.io/badge/Continuous_Learning-21262D?style=flat-square&logoColor=white)
 
 ---
 
@@ -182,16 +182,16 @@ Certifications *(via Udacity — Global Chapters Ethiopia, in partnership with t
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=robelyinager12-web&show_icons=true&theme=default&hide_border=false&title_color=0077B6&icon_color=0077B6&include_all_commits=true&count_private=true"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robelyinager12-web&layout=donut&theme=default&hide_border=false&title_color=0077B6"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=robelyinager12-web&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robelyinager12-web&layout=donut&theme=github_dark&hide_border=true"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=robelyinager12-web&theme=default&hide_border=false&ring=0077B6&fire=E85D04&currStreakLabel=0077B6"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=robelyinager12-web&theme=github-dark-blue&hide_border=true"/>
 
 <br/>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=robelyinager12-web&color=0077B6&line=0077B6&point=E85D04&area=true&hide_border=false&custom_title=Contribution+Graph&title_color=0077B6)](https://github.com/robelyinager12-web)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=robelyinager12-web&theme=github-compact&hide_border=true&custom_title=Contribution+Graph)](https://github.com/robelyinager12-web)
 
 </div>
 
@@ -201,7 +201,7 @@ Certifications *(via Udacity — Global Chapters Ethiopia, in partnership with t
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=robelyinager12-web&theme=flat&no-frame=false&column=4&margin-w=10&margin-h=10)](https://github.com/robelyinager12-web)
+[![trophy](https://github-profile-trophy.vercel.app/?username=robelyinager12-web&theme=github_dark&no-frame=true&column=4&margin-w=10&margin-h=10)](https://github.com/robelyinager12-web)
 
 </div>
 
@@ -211,9 +211,9 @@ Certifications *(via Udacity — Global Chapters Ethiopia, in partnership with t
 
 ### 📫 Let's Build Something
 
-[![Portfolio](https://img.shields.io/badge/Visit_Portfolio-0077B6?style=for-the-badge&logo=vercel&logoColor=white)](https://robelyinager12-web.vercel.app)
-[![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:robelyinager12@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Visit_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://robelyinager12-web.vercel.app)
+[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:robelyinager12@gmail.com)
 
-<sub>![Profile Views](https://komarev.com/ghpvc/?username=robelyinager12-web&style=flat-square&color=0077B6&label=profile+views)</sub>
+<sub>![Profile Views](https://komarev.com/ghpvc/?username=robelyinager12-web&style=flat-square&color=58A6FF&label=profile+views)</sub>
 
 </div>
