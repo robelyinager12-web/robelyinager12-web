@@ -1,4 +1,4 @@
-[6/25/2026 10:15 AM] roba: <div align="center">
+<div align="center">
 
 # Robel Yinager
 
@@ -29,8 +29,11 @@
 
 ## 👤 About Me
 
-Creative Full-Stack Web Developer who turns ideas into seamless digital experiences — crafting intuitive frontends with React and Next.js, and robust backends with Node.js and PostgreSQL. Curious, self-driven, and always learning.
+Creative Full-Stack Web Developer passionate about transforming ideas into scalable, user-centered digital experiences. I specialize in building modern, responsive, and accessible web applications using React, Next.js, Node.js, Express.js, and PostgreSQL. I enjoy designing intuitive user interfaces and developing secure, high-performance backend systems that deliver exceptional user experiences.
 
+Driven by curiosity and continuous learning, I consistently explore emerging technologies to expand my expertise in software engineering, cloud computing, artificial intelligence, and mobile development. I am committed to writing clean, maintainable code while following industry best practices and modern development workflows.
+
+```javascript
 const robel = {
     role: "Full-Stack Web Developer",
     based_in: "Injibara, Ethiopia",
@@ -40,6 +43,7 @@ const robel = {
     currently_exploring: ["Python", "TensorFlow", "Kotlin / Android Studio", "AWS Cloud Fundamentals"],
     currently: "Building clean, accessible, production-ready web apps"
 };
+```
 
 ---
 
@@ -84,7 +88,8 @@ const robel = {
 <br/>
 
 ### 🧰 Tools & DevOps
-[6/25/2026 10:15 AM] roba: <div align="left">
+
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" title="Git"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42" title="GitHub"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="42" title="Docker"/>&nbsp;
@@ -156,7 +161,8 @@ Feb 2024 — Present
 ---
 
 ## 🎓 Education & Certifications
-[6/25/2026 10:15 AM] roba: B.Sc. Software Engineering
+
+B.Sc. Software Engineering
 University of Injibara, Ethiopia · 2022 — Present
 
 *Coursework:* Web Development · Database Systems · Data Structures & Algorithms · Software Design · UI/UX Principles · OOP
