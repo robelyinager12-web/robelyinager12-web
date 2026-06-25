@@ -19,7 +19,7 @@
 </td>
 <td width="50%" align="center">
 
-<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="380" alt="Developer working at a dual-monitor setup"/>
+<img src="./assets/profile.jpg" width="380" alt="Robel Yinager"/>
 
 </td>
 </tr>
