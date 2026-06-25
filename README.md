@@ -19,7 +19,7 @@
 </td>
 <td width="50%" align="center">
 
-<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="380" alt="Developer working at a dual-monitor setup"/>
+<img src="https://raw.githubusercontent.com/robelyinager12-web/robelyinager12-web/main/assets/dev-illustration.png" width="380" alt="Developer working at a dual-monitor setup"/>
 
 </td>
 </tr>
