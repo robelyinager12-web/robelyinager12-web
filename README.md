@@ -19,6 +19,12 @@
 </td>
 <td width="50%" align="center">
 
+<!-- 
+  IMPORTANT: To show your custom image, do the following:
+  1. In your GitHub profile repo (robelyinager12-web/robelyinager12-web), click "Add file" > "Upload files"
+  2. Create a folder called "assets" and upload "dev-illustration.png" inside it
+  3. The image below will then load automatically
+-->
 <img src="https://raw.githubusercontent.com/robelyinager12-web/robelyinager12-web/main/assets/dev-illustration.png" width="380" alt="Developer working at a dual-monitor setup"/>
 
 </td>
