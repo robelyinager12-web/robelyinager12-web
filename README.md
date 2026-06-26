@@ -4,6 +4,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-robelyinager12--web.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://robelyinager12-web.vercel.app)
 [![Email](https://img.shields.io/badge/Email-robelyinager12%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:robelyinager12@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-robel--yinager-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robel-yinager-943b37419/)
 [![Status](https://img.shields.io/badge/Status-Open%20to%20Opportunities-238636?style=for-the-badge&logo=checkmarx&logoColor=white)]()
 
 </div>
@@ -37,6 +38,7 @@ Driven by curiosity and continuous learning, I consistently explore emerging tec
 const robel = {
     role: "Full-Stack Web Developer",
     based_in: "Injibara, Ethiopia",
+    phone: "+251 990 004 044",
     studying: "B.Sc. Software Engineering — University of Injibara",
     building_independently_since: "Feb 2024",
     languages: ["Amharic (Native)", "English (C2 — Fluent)"],
@@ -75,7 +77,7 @@ const robel = {
 
 <br/>
 
-### 🗄 Database
+### 🗄️ Database
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="42" title="MongoDB"/>&nbsp;
@@ -137,13 +139,13 @@ const robel = {
 
 ## 💼 Project Experience
 
-Independent Full-Stack Developer — Self-Directed Learning & Real-World Project Building
-Feb 2024 — Present
+### Independent Full-Stack Developer — Self-Directed Learning & Real-World Project Building
+**Feb 2024 — Present**
 
-- Designed and deployed multiple full-stack apps using React, Next.js, TypeScript, and Node.js to simulate real production environments
-- Built and integrated RESTful APIs with PostgreSQL and MongoDB for authentication, dynamic content, and data persistence
-- Practiced professional workflows: Git/GitHub version control, code reviews, and structured documentation
-- Improved performance through code splitting, query optimization, and mobile-first UI/UX with Tailwind CSS
+- Designed and deployed multiple full-stack apps using **React, Next.js, TypeScript, and Node.js** to simulate real production environments
+- Built and integrated **RESTful APIs** with PostgreSQL and MongoDB for authentication, dynamic content, and data persistence
+- Practiced professional workflows: **Git/GitHub** version control, code reviews, and structured documentation
+- Improved performance through **code splitting, query optimization**, and mobile-first UI/UX with Tailwind CSS
 
 ---
 
@@ -162,12 +164,15 @@ Feb 2024 — Present
 
 ## 🎓 Education & Certifications
 
-B.Sc. Software Engineering
-University of Injibara, Ethiopia · 2022 — Present
+### 🏫 B.Sc. Software Engineering
+**University of Injibara, Ethiopia · 2022 — Present**
 
 *Coursework:* Web Development · Database Systems · Data Structures & Algorithms · Software Design · UI/UX Principles · OOP
 
-Certifications *(via Udacity — Global Chapters Ethiopia, in partnership with the 5 Million Ethiopian Coders Initiative & Ministry of Labor and Skills)*
+---
+
+### 📜 Certifications
+*via Udacity — Global Chapters Ethiopia, in partnership with the 5 Million Ethiopian Coders Initiative & Ministry of Labor and Skills*
 
 | Certificate | Issuer | Date |
 |---|---|---|
@@ -213,6 +218,7 @@ Certifications *(via Udacity — Global Chapters Ethiopia, in partnership with t
 
 [![Portfolio](https://img.shields.io/badge/Visit_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://robelyinager12-web.vercel.app)
 [![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:robelyinager12@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robel-yinager-943b37419/)
 
 <sub>![Profile Views](https://komarev.com/ghpvc/?username=robelyinager12-web&style=flat-square&color=58A6FF&label=profile+views)</sub>
 
