@@ -1,10 +1,9 @@
-[6/27/2026 5:01 PM] roba: <div align="center">
+<div align="center">
 
 # Robel Yinager
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-robelyinager12--web.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://robelyinager12-web.vercel.app)
 [![Email](https://img.shields.io/badge/Email-robelyinager12%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:robelyinager12@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-robel--yinager-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robel-yinager-943b37419/)
 [![Status](https://img.shields.io/badge/Status-Open%20to%20Opportunities-238636?style=for-the-badge&logo=checkmarx&logoColor=white)]()
 
 </div>
@@ -34,16 +33,17 @@ Creative Full-Stack Web Developer passionate about transforming ideas into scala
 
 Driven by curiosity and continuous learning, I consistently explore emerging technologies to expand my expertise in software engineering, cloud computing, artificial intelligence, and mobile development. I am committed to writing clean, maintainable code while following industry best practices and modern development workflows.
 
+```javascript
 const robel = {
     role: "Full-Stack Web Developer",
     based_in: "Injibara, Ethiopia",
-    phone: "+251 990 004 044",
     studying: "B.Sc. Software Engineering — University of Injibara",
     building_independently_since: "Feb 2024",
     languages: ["Amharic (Native)", "English (C2 — Fluent)"],
     currently_exploring: ["Python", "TensorFlow", "Kotlin / Android Studio", "AWS Cloud Fundamentals"],
     currently: "Building clean, accessible, production-ready web apps"
 };
+```
 
 ---
 
@@ -74,7 +74,8 @@ const robel = {
 </div>
 
 <br/>
-[6/27/2026 5:01 PM] roba: ### 🗄 Database
+
+### 🗄 Database
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="42" title="MongoDB"/>&nbsp;
@@ -136,7 +137,7 @@ const robel = {
 
 ## 💼 Project Experience
 
-### Independent Full-Stack Developer — Self-Directed Learning & Real-World Project Building
+Independent Full-Stack Developer — Self-Directed Learning & Real-World Project Building
 Feb 2024 — Present
 
 - Designed and deployed multiple full-stack apps using React, Next.js, TypeScript, and Node.js to simulate real production environments
@@ -147,7 +148,8 @@ Feb 2024 — Present
 ---
 
 ## 🧩 Core Competencies
-[6/27/2026 5:01 PM] roba: ![Problem-Solving](https://img.shields.io/badge/Problem--Solving-21262D?style=flat-square&logoColor=white)
+
+![Problem-Solving](https://img.shields.io/badge/Problem--Solving-21262D?style=flat-square&logoColor=white)
 ![Self-Motivation](https://img.shields.io/badge/Self--Motivation-21262D?style=flat-square&logoColor=white)
 ![Adaptability](https://img.shields.io/badge/Adaptability-21262D?style=flat-square&logoColor=white)
 ![Attention to Detail](https://img.shields.io/badge/Attention_to_Detail-21262D?style=flat-square&logoColor=white)
@@ -160,15 +162,12 @@ Feb 2024 — Present
 
 ## 🎓 Education & Certifications
 
-### 🏫 B.Sc. Software Engineering
+B.Sc. Software Engineering
 University of Injibara, Ethiopia · 2022 — Present
 
 *Coursework:* Web Development · Database Systems · Data Structures & Algorithms · Software Design · UI/UX Principles · OOP
 
----
-
-### 📜 Certifications
-*via Udacity — Global Chapters Ethiopia, in partnership with the 5 Million Ethiopian Coders Initiative & Ministry of Labor and Skills*
+Certifications *(via Udacity — Global Chapters Ethiopia, in partnership with the 5 Million Ethiopian Coders Initiative & Ministry of Labor and Skills)*
 
 | Certificate | Issuer | Date |
 |---|---|---|
@@ -214,7 +213,6 @@ University of Injibara, Ethiopia · 2022 — Present
 
 [![Portfolio](https://img.shields.io/badge/Visit_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://robelyinager12-web.vercel.app)
 [![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:robelyinager12@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robel-yinager-943b37419/)
 
 <sub>![Profile Views](https://komarev.com/ghpvc/?username=robelyinager12-web&style=flat-square&color=58A6FF&label=profile+views)</sub>
 
