@@ -2,9 +2,9 @@
 
 # Robel Yinager
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-robelyinager12--web.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://robelyinager12-web.vercel.app)
-[![Email](https://img.shields.io/badge/Email-robelyinager12%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:robelyinager12@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-robel--yinager-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robel-yinager-943b37419/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-robelyinager12--web.vercel.app-58A6FF?style=for-the-badge&logo=vercel&logoColor=white)](https://robelyinager12-web.vercel.app)
+[![Email](https://img.shields.io/badge/Email-robelyinager12%40gmail.com-58A6FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:robelyinager12@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-robel--yinager-58A6FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robel-yinager-943b37419/)
 [![Status](https://img.shields.io/badge/Status-Open%20to%20Opportunities-238636?style=for-the-badge&logo=checkmarx&logoColor=white)]()
 
 </div>
@@ -15,7 +15,7 @@
 <tr>
 <td width="50%" valign="middle" align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=2F80ED&center=true&vCenter=true&width=500&lines=Software+Engineer;Full+Stack+Developer+%7C+MERN+%7C" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=500&lines=Software+Engineer;Full+Stack+Developer+%7C+MERN+%7C" alt="Typing SVG" />
 
 </td>
 <td width="50%" align="center">
@@ -151,14 +151,14 @@ const robel = {
 
 ## 🧩 Core Competencies
 
-![Problem-Solving](https://img.shields.io/badge/Problem--Solving-21262D?style=flat-square&logoColor=white)
-![Self-Motivation](https://img.shields.io/badge/Self--Motivation-21262D?style=flat-square&logoColor=white)
-![Adaptability](https://img.shields.io/badge/Adaptability-21262D?style=flat-square&logoColor=white)
-![Attention to Detail](https://img.shields.io/badge/Attention_to_Detail-21262D?style=flat-square&logoColor=white)
-![Time Management](https://img.shields.io/badge/Time_Management-21262D?style=flat-square&logoColor=white)
-![Communication](https://img.shields.io/badge/Communication-21262D?style=flat-square&logoColor=white)
-![Team Collaboration](https://img.shields.io/badge/Team_Collaboration-21262D?style=flat-square&logoColor=white)
-![Continuous Learning](https://img.shields.io/badge/Continuous_Learning-21262D?style=flat-square&logoColor=white)
+![Problem-Solving](https://img.shields.io/badge/Problem--Solving-161B22?style=flat-square&color=161B22&labelColor=58A6FF&logoColor=white)
+![Self-Motivation](https://img.shields.io/badge/Self--Motivation-161B22?style=flat-square&color=161B22&labelColor=58A6FF&logoColor=white)
+![Adaptability](https://img.shields.io/badge/Adaptability-161B22?style=flat-square&color=161B22&labelColor=58A6FF&logoColor=white)
+![Attention to Detail](https://img.shields.io/badge/Attention_to_Detail-161B22?style=flat-square&color=161B22&labelColor=58A6FF&logoColor=white)
+![Time Management](https://img.shields.io/badge/Time_Management-161B22?style=flat-square&color=161B22&labelColor=58A6FF&logoColor=white)
+![Communication](https://img.shields.io/badge/Communication-161B22?style=flat-square&color=161B22&labelColor=58A6FF&logoColor=white)
+![Team Collaboration](https://img.shields.io/badge/Team_Collaboration-161B22?style=flat-square&color=161B22&labelColor=58A6FF&logoColor=white)
+![Continuous Learning](https://img.shields.io/badge/Continuous_Learning-161B22?style=flat-square&color=161B22&labelColor=58A6FF&logoColor=white)
 
 ---
 
@@ -187,16 +187,16 @@ const robel = {
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=robelyinager12-web&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robelyinager12-web&layout=donut&theme=github_dark&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=robelyinager12-web&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&title_color=58A6FF&icon_color=58A6FF"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robelyinager12-web&layout=donut&theme=github_dark&hide_border=true&title_color=58A6FF"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=robelyinager12-web&theme=github-dark-blue&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=robelyinager12-web&theme=github-dark-blue&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
 
 <br/>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=robelyinager12-web&theme=github-compact&hide_border=true&custom_title=Contribution+Graph)](https://github.com/robelyinager12-web)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=robelyinager12-web&theme=github-compact&hide_border=true&color=58A6FF&line=58A6FF&point=58A6FF&custom_title=Contribution+Graph)](https://github.com/robelyinager12-web)
 
 </div>
 
@@ -216,9 +216,9 @@ const robel = {
 
 ### 📫 Let's Build Something
 
-[![Portfolio](https://img.shields.io/badge/Visit_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://robelyinager12-web.vercel.app)
-[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:robelyinager12@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robel-yinager-943b37419/)
+[![Portfolio](https://img.shields.io/badge/Visit_Portfolio-58A6FF?style=for-the-badge&logo=vercel&logoColor=white)](https://robelyinager12-web.vercel.app)
+[![Email](https://img.shields.io/badge/Send_an_Email-58A6FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:robelyinager12@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-58A6FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robel-yinager-943b37419/)
 
 <sub>![Profile Views](https://komarev.com/ghpvc/?username=robelyinager12-web&style=flat-square&color=58A6FF&label=profile+views)</sub>
 
