@@ -1,4 +1,4 @@
-<div align="center">
+[6/29/2026 4:16 PM] roba: <div align="center">
 
 # Robel Yinager
 
@@ -33,7 +33,6 @@ Creative Full-Stack Web Developer passionate about transforming ideas into scala
 
 Driven by curiosity and continuous learning, I consistently explore emerging technologies to expand my expertise in software engineering, cloud computing, artificial intelligence, and mobile development. I am committed to writing clean, maintainable code while following industry best practices and modern development workflows.
 
-```javascript
 const robel = {
     role: "Full-Stack Web Developer",
     based_in: "Injibara, Ethiopia",
@@ -43,7 +42,6 @@ const robel = {
     currently_exploring: ["Python", "TensorFlow", "Kotlin / Android Studio", "AWS Cloud Fundamentals"],
     currently: "Building clean, accessible, production-ready web apps"
 };
-```
 
 ---
 
@@ -76,8 +74,7 @@ const robel = {
 <br/>
 
 ### 🗄 Database
-
-<div align="left">
+[6/29/2026 4:16 PM] roba: <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="42" title="MongoDB"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="42" title="MySQL"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="42" title="PostgreSQL"/>&nbsp;
@@ -148,8 +145,7 @@ Feb 2024 — Present
 ---
 
 ## 🧩 Core Competencies
-
-![Problem-Solving](https://img.shields.io/badge/Problem--Solving-21262D?style=flat-square&logoColor=white)
+[6/29/2026 4:16 PM] roba: ![Problem-Solving](https://img.shields.io/badge/Problem--Solving-21262D?style=flat-square&logoColor=white)
 ![Self-Motivation](https://img.shields.io/badge/Self--Motivation-21262D?style=flat-square&logoColor=white)
 ![Adaptability](https://img.shields.io/badge/Adaptability-21262D?style=flat-square&logoColor=white)
 ![Attention to Detail](https://img.shields.io/badge/Attention_to_Detail-21262D?style=flat-square&logoColor=white)
@@ -192,48 +188,6 @@ Certifications *(via Udacity — Global Chapters Ethiopia, in partnership with t
 <br/>
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=robelyinager12-web&theme=github-compact&hide_border=true&custom_title=Contribution+Graph)](https://github.com/robelyinager12-web)
-
-</div>
-
----
-
-## 🤝 Collaboration & Contributions
-
-<div align="center">
-
-### 📈 Activity Overview
-
-<svg width="480" height="300" viewBox="0 0 480 300" xmlns="http://www.w3.org/2000/svg">
-
-  <!-- Vertical axis -->
-  <line x1="240" y1="30" x2="240" y2="270" stroke="#2ea043" stroke-width="2" stroke-linecap="round"/>
-  <!-- Horizontal axis -->
-  <line x1="40" y1="150" x2="440" y2="150" stroke="#2ea043" stroke-width="2" stroke-linecap="round"/>
-
-  <!-- Highlighted commits segment (left of center, bright) -->
-  <line x1="90" y1="150" x2="240" y2="150" stroke="#2ea043" stroke-width="6" stroke-linecap="round" opacity="0.9"/>
-
-  <!-- Dots -->
-  <circle cx="90"  cy="150" r="5" fill="none" stroke="#2ea043" stroke-width="2.2"/>
-  <circle cx="240" cy="150" r="5" fill="none" stroke="#2ea043" stroke-width="2.2"/>
-
-  <!-- Axis endpoint dots -->
-  <circle cx="40"  cy="150" r="3" fill="#2ea043" opacity="0.35"/>
-  <circle cx="440" cy="150" r="3" fill="#2ea043" opacity="0.35"/>
-  <circle cx="240" cy="30"  r="3" fill="#2ea043" opacity="0.35"/>
-  <circle cx="240" cy="270" r="3" fill="#2ea043" opacity="0.35"/>
-
-  <!-- Labels -->
-  <text x="75"  y="136" text-anchor="middle" font-family="monospace" font-size="13" font-weight="bold" fill="#2ea043">99%</text>
-  <text x="75"  y="168" text-anchor="middle" font-family="monospace" font-size="12" fill="#8b949e">Commits</text>
-
-  <text x="430" y="136" text-anchor="middle" font-family="monospace" font-size="13" font-weight="bold" fill="#8b949e">1%</text>
-  <text x="430" y="168" text-anchor="middle" font-family="monospace" font-size="12" fill="#8b949e">Issues</text>
-
-  <text x="240" y="20"  text-anchor="middle" font-family="monospace" font-size="12" fill="#8b949e">Code review</text>
-  <text x="240" y="290" text-anchor="middle" font-family="monospace" font-size="12" fill="#8b949e">Pull requests</text>
-
-</svg>
 
 </div>
 
