@@ -201,24 +201,39 @@ Certifications *(via Udacity — Global Chapters Ethiopia, in partnership with t
 
 <div align="center">
 
-### 📈 Contribution Breakdown
+### 📈 Activity Overview
 
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/Commits-99%25-238636?style=for-the-badge&logo=git&logoColor=white" alt="Commits 99%"/><br/>
-      <sub><b>Primary Contribution Type</b></sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/Code_Review-Active-2F80ED?style=for-the-badge&logo=github&logoColor=white" alt="Code Review"/><br/>
-      <sub><b>Peer Reviews</b></sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/Issues-1%25-E3B341?style=for-the-badge&logo=github&logoColor=white" alt="Issues 1%"/><br/>
-      <sub><b>Issue Tracking</b></sub>
-    </td>
-  </tr>
-</table>
+<svg width="480" height="300" viewBox="0 0 480 300" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Vertical axis -->
+  <line x1="240" y1="30" x2="240" y2="270" stroke="#2ea043" stroke-width="2" stroke-linecap="round"/>
+  <!-- Horizontal axis -->
+  <line x1="40" y1="150" x2="440" y2="150" stroke="#2ea043" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- Highlighted commits segment (left of center, bright) -->
+  <line x1="90" y1="150" x2="240" y2="150" stroke="#2ea043" stroke-width="6" stroke-linecap="round" opacity="0.9"/>
+
+  <!-- Dots -->
+  <circle cx="90"  cy="150" r="5" fill="none" stroke="#2ea043" stroke-width="2.2"/>
+  <circle cx="240" cy="150" r="5" fill="none" stroke="#2ea043" stroke-width="2.2"/>
+
+  <!-- Axis endpoint dots -->
+  <circle cx="40"  cy="150" r="3" fill="#2ea043" opacity="0.35"/>
+  <circle cx="440" cy="150" r="3" fill="#2ea043" opacity="0.35"/>
+  <circle cx="240" cy="30"  r="3" fill="#2ea043" opacity="0.35"/>
+  <circle cx="240" cy="270" r="3" fill="#2ea043" opacity="0.35"/>
+
+  <!-- Labels -->
+  <text x="75"  y="136" text-anchor="middle" font-family="monospace" font-size="13" font-weight="bold" fill="#2ea043">99%</text>
+  <text x="75"  y="168" text-anchor="middle" font-family="monospace" font-size="12" fill="#8b949e">Commits</text>
+
+  <text x="430" y="136" text-anchor="middle" font-family="monospace" font-size="13" font-weight="bold" fill="#8b949e">1%</text>
+  <text x="430" y="168" text-anchor="middle" font-family="monospace" font-size="12" fill="#8b949e">Issues</text>
+
+  <text x="240" y="20"  text-anchor="middle" font-family="monospace" font-size="12" fill="#8b949e">Code review</text>
+  <text x="240" y="290" text-anchor="middle" font-family="monospace" font-size="12" fill="#8b949e">Pull requests</text>
+
+</svg>
 
 </div>
 
