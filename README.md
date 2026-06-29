@@ -201,22 +201,6 @@ Certifications *(via Udacity — Global Chapters Ethiopia, in partnership with t
 
 <div align="center">
 
-### 🗂️ Featured Collaborative Repositories
-
-| Repository | Role |
-|---|---|
-| [Yetemare-Yibeltal/Real-Time-Bidd...](https://github.com/Yetemare-Yibeltal) | Contributor |
-| [Yetemare-Yibeltal/personal-portf...](https://github.com/Yetemare-Yibeltal) | Contributor |
-| [Yetemare-Yibeltal/Food-Delivery](https://github.com/Yetemare-Yibeltal) | Contributor |
-
-> 📌 *Also contributed to **13+ other repositories** across various domains.*
-
-</div>
-
-<br/>
-
-<div align="center">
-
 ### 📈 Contribution Breakdown
 
 <table>
