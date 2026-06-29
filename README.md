@@ -197,6 +197,49 @@ Certifications *(via Udacity — Global Chapters Ethiopia, in partnership with t
 
 ---
 
+## 🤝 Collaboration & Contributions
+
+<div align="center">
+
+### 🗂️ Featured Collaborative Repositories
+
+| Repository | Role |
+|---|---|
+| [Yetemare-Yibeltal/Real-Time-Bidd...](https://github.com/Yetemare-Yibeltal) | Contributor |
+| [Yetemare-Yibeltal/personal-portf...](https://github.com/Yetemare-Yibeltal) | Contributor |
+| [Yetemare-Yibeltal/Food-Delivery](https://github.com/Yetemare-Yibeltal) | Contributor |
+
+> 📌 *Also contributed to **13+ other repositories** across various domains.*
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 📈 Contribution Breakdown
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/Commits-99%25-238636?style=for-the-badge&logo=git&logoColor=white" alt="Commits 99%"/><br/>
+      <sub><b>Primary Contribution Type</b></sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/Code_Review-Active-2F80ED?style=for-the-badge&logo=github&logoColor=white" alt="Code Review"/><br/>
+      <sub><b>Peer Reviews</b></sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/Issues-1%25-E3B341?style=for-the-badge&logo=github&logoColor=white" alt="Issues 1%"/><br/>
+      <sub><b>Issue Tracking</b></sub>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
 ## 🏆 GitHub Trophies
 
 <div align="center">
