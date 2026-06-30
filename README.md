@@ -1,9 +1,9 @@
-[6/29/2026 4:16 PM] roba: <div align="center">
+<div align="center">
 
 # Robel Yinager
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-robelyinager12--web.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://robelyinager12-web.vercel.app)
-[![Email](https://img.shields.io/badge/Email-robelyinager12%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:robelyinager12@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-robelyinager12--web.vercel.app-0D1117?style=for-the-badge&logo=vercel&logoColor=2F80ED)](https://robelyinager12-web.vercel.app)
+[![Email](https://img.shields.io/badge/Email-robelyinager12%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=2F80ED)](mailto:robelyinager12@gmail.com)
 [![Status](https://img.shields.io/badge/Status-Open%20to%20Opportunities-238636?style=for-the-badge&logo=checkmarx&logoColor=white)]()
 
 </div>
@@ -33,6 +33,7 @@ Creative Full-Stack Web Developer passionate about transforming ideas into scala
 
 Driven by curiosity and continuous learning, I consistently explore emerging technologies to expand my expertise in software engineering, cloud computing, artificial intelligence, and mobile development. I am committed to writing clean, maintainable code while following industry best practices and modern development workflows.
 
+```js
 const robel = {
     role: "Full-Stack Web Developer",
     based_in: "Injibara, Ethiopia",
@@ -42,6 +43,7 @@ const robel = {
     currently_exploring: ["Python", "TensorFlow", "Kotlin / Android Studio", "AWS Cloud Fundamentals"],
     currently: "Building clean, accessible, production-ready web apps"
 };
+```
 
 ---
 
@@ -74,7 +76,8 @@ const robel = {
 <br/>
 
 ### 🗄 Database
-[6/29/2026 4:16 PM] roba: <div align="left">
+
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="42" title="MongoDB"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="42" title="MySQL"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="42" title="PostgreSQL"/>&nbsp;
@@ -134,8 +137,8 @@ const robel = {
 
 ## 💼 Project Experience
 
-Independent Full-Stack Developer — Self-Directed Learning & Real-World Project Building
-Feb 2024 — Present
+**Independent Full-Stack Developer** — Self-Directed Learning & Real-World Project Building
+*Feb 2024 — Present*
 
 - Designed and deployed multiple full-stack apps using React, Next.js, TypeScript, and Node.js to simulate real production environments
 - Built and integrated RESTful APIs with PostgreSQL and MongoDB for authentication, dynamic content, and data persistence
@@ -145,20 +148,21 @@ Feb 2024 — Present
 ---
 
 ## 🧩 Core Competencies
-[6/29/2026 4:16 PM] roba: ![Problem-Solving](https://img.shields.io/badge/Problem--Solving-21262D?style=flat-square&logoColor=white)
-![Self-Motivation](https://img.shields.io/badge/Self--Motivation-21262D?style=flat-square&logoColor=white)
-![Adaptability](https://img.shields.io/badge/Adaptability-21262D?style=flat-square&logoColor=white)
-![Attention to Detail](https://img.shields.io/badge/Attention_to_Detail-21262D?style=flat-square&logoColor=white)
-![Time Management](https://img.shields.io/badge/Time_Management-21262D?style=flat-square&logoColor=white)
-![Communication](https://img.shields.io/badge/Communication-21262D?style=flat-square&logoColor=white)
-![Team Collaboration](https://img.shields.io/badge/Team_Collaboration-21262D?style=flat-square&logoColor=white)
-![Continuous Learning](https://img.shields.io/badge/Continuous_Learning-21262D?style=flat-square&logoColor=white)
+
+![Problem-Solving](https://img.shields.io/badge/Problem--Solving-0D1117?style=flat-square&logoColor=white)
+![Self-Motivation](https://img.shields.io/badge/Self--Motivation-0D1117?style=flat-square&logoColor=white)
+![Adaptability](https://img.shields.io/badge/Adaptability-0D1117?style=flat-square&logoColor=white)
+![Attention to Detail](https://img.shields.io/badge/Attention_to_Detail-0D1117?style=flat-square&logoColor=white)
+![Time Management](https://img.shields.io/badge/Time_Management-0D1117?style=flat-square&logoColor=white)
+![Communication](https://img.shields.io/badge/Communication-0D1117?style=flat-square&logoColor=white)
+![Team Collaboration](https://img.shields.io/badge/Team_Collaboration-0D1117?style=flat-square&logoColor=white)
+![Continuous Learning](https://img.shields.io/badge/Continuous_Learning-0D1117?style=flat-square&logoColor=white)
 
 ---
 
 ## 🎓 Education & Certifications
 
-B.Sc. Software Engineering
+**B.Sc. Software Engineering**
 University of Injibara, Ethiopia · 2022 — Present
 
 *Coursework:* Web Development · Database Systems · Data Structures & Algorithms · Software Design · UI/UX Principles · OOP
@@ -183,11 +187,11 @@ Certifications *(via Udacity — Global Chapters Ethiopia, in partnership with t
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=robelyinager12-web&theme=github-dark-blue&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=robelyinager12-web&theme=github_dark&hide_border=true"/>
 
 <br/>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=robelyinager12-web&theme=github-compact&hide_border=true&custom_title=Contribution+Graph)](https://github.com/robelyinager12-web)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=robelyinager12-web&theme=github-dark&hide_border=true&custom_title=Contribution+Graph)](https://github.com/robelyinager12-web)
 
 </div>
 
@@ -207,9 +211,9 @@ Certifications *(via Udacity — Global Chapters Ethiopia, in partnership with t
 
 ### 📫 Let's Build Something
 
-[![Portfolio](https://img.shields.io/badge/Visit_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://robelyinager12-web.vercel.app)
-[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:robelyinager12@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Visit_Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=2F80ED)](https://robelyinager12-web.vercel.app)
+[![Email](https://img.shields.io/badge/Send_an_Email-0D1117?style=for-the-badge&logo=gmail&logoColor=2F80ED)](mailto:robelyinager12@gmail.com)
 
-<sub>![Profile Views](https://komarev.com/ghpvc/?username=robelyinager12-web&style=flat-square&color=58A6FF&label=profile+views)</sub>
+<sub>![Profile Views](https://komarev.com/ghpvc/?username=robelyinager12-web&style=flat-square&color=2F80ED&label=profile+views)</sub>
 
 </div>
