@@ -182,7 +182,7 @@ Certifications *(via Udacity — Global Chapters Ethiopia, in partnership with t
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=robelyinager12-web&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=robelyinager12-web&show_icons=true&theme=github_dark&hide_border=true"/>
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robelyinager12-web&layout=donut&theme=github_dark&hide_border=true"/>
 
 <br/>
