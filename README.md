@@ -1,4 +1,4 @@
-[6/29/2026 4:16 PM] roba: <div align="center">
+<div align="center">
 
 # Robel Yinager
 
@@ -33,6 +33,7 @@ Creative Full-Stack Web Developer passionate about transforming ideas into scala
 
 Driven by curiosity and continuous learning, I consistently explore emerging technologies to expand my expertise in software engineering, cloud computing, artificial intelligence, and mobile development. I am committed to writing clean, maintainable code while following industry best practices and modern development workflows.
 
+```javascript
 const robel = {
     role: "Full-Stack Web Developer",
     based_in: "Injibara, Ethiopia",
@@ -42,6 +43,7 @@ const robel = {
     currently_exploring: ["Python", "TensorFlow", "Kotlin / Android Studio", "AWS Cloud Fundamentals"],
     currently: "Building clean, accessible, production-ready web apps"
 };
+```
 
 ---
 
@@ -74,7 +76,8 @@ const robel = {
 <br/>
 
 ### 🗄 Database
-[6/29/2026 4:16 PM] roba: <div align="left">
+
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="42" title="MongoDB"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="42" title="MySQL"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="42" title="PostgreSQL"/>&nbsp;
@@ -145,7 +148,8 @@ Feb 2024 — Present
 ---
 
 ## 🧩 Core Competencies
-[6/29/2026 4:16 PM] roba: ![Problem-Solving](https://img.shields.io/badge/Problem--Solving-21262D?style=flat-square&logoColor=white)
+
+![Problem-Solving](https://img.shields.io/badge/Problem--Solving-21262D?style=flat-square&logoColor=white)
 ![Self-Motivation](https://img.shields.io/badge/Self--Motivation-21262D?style=flat-square&logoColor=white)
 ![Adaptability](https://img.shields.io/badge/Adaptability-21262D?style=flat-square&logoColor=white)
 ![Attention to Detail](https://img.shields.io/badge/Attention_to_Detail-21262D?style=flat-square&logoColor=white)
