@@ -292,4 +292,3 @@ Certifications *(via Udacity — Global Chapters Ethiopia, in partnership with t
 *Crafted with ❤️ by Robel Yinager*
 
 </div>
-
