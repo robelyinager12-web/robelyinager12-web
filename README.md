@@ -244,47 +244,44 @@ Certifications *(via Udacity — Global Chapters Ethiopia, in partnership with t
 
 ## 📊 Activity Overview
 
-<table width="100%" border="0" cellpadding="8" cellspacing="0">
+<div align="center">
+
+<img src="https://ghchart.rshah.org/2F80ED/robelyinager12-web" alt="Robel's contribution calendar" width="95%"/>
+
+</div>
+
+<br/>
+
+<table width="100%" border="0" cellpadding="16" cellspacing="0">
 <tr>
-<td align="center" width="25%">
+<td width="45%" valign="top">
 
-**💻 Commits**
-<br/>
-![Commits](https://img.shields.io/badge/100%25-238636?style=for-the-badge)
+**Activity overview**
 
-</td>
-<td align="center" width="25%">
+📦&nbsp; **Contributed to**
 
-**🐛 Issues**
-<br/>
-![Issues](https://img.shields.io/badge/Active-2F80ED?style=for-the-badge)
+[AI-Assisted-Digital-Diagnosis](https://github.com/Yetemare-Yibeltal/AI-Assisted-Digital-Diagnosis) ,
+[Heroy-Ai-Based](https://github.com/Yetemare-Yibeltal/Heroy-Ai-Based) ,
+[Full-Apple-web](https://github.com/Yetemare-Yibeltal/Full-Apple-web)  
+*and 19 other repositories*
 
 </td>
-<td align="center" width="25%">
+<td width="55%" align="center" valign="top">
 
-**🔀 Pull Requests**
-<br/>
-![PRs](https://img.shields.io/badge/Active-2F80ED?style=for-the-badge)
-
-</td>
-<td align="center" width="25%">
-
-**👀 Code Review**
-<br/>
-![Code Review](https://img.shields.io/badge/Active-238636?style=for-the-badge)
+<svg width="300" height="260" viewBox="0 0 300 260" xmlns="http://www.w3.org/2000/svg">
+  <line x1="150" y1="15" x2="150" y2="245" stroke="#2da44e" stroke-width="2"/>
+  <line x1="15" y1="130" x2="285" y2="130" stroke="#2da44e" stroke-width="2"/>
+  <circle cx="70" cy="130" r="5" fill="#2da44e"/>
+  <text x="150" y="12" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#57606a">Code review</text>
+  <text x="290" y="134" text-anchor="start" font-family="sans-serif" font-size="13" fill="#57606a">Issues</text>
+  <text x="150" y="258" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#57606a">Pull requests</text>
+  <text x="10" y="118" text-anchor="end" font-family="sans-serif" font-size="13" fill="#57606a">100%</text>
+  <text x="10" y="136" text-anchor="end" font-family="sans-serif" font-size="13" fill="#57606a">Commits</text>
+</svg>
 
 </td>
 </tr>
 </table>
-
-<p align="center">
-<strong>Contributed to:</strong>
-<a href="https://github.com/Yetemare-Yibeltal/AI-Assisted-Digital-Diagnosis">AI-Assisted-Digital-Diagnosis</a> ·
-<a href="https://github.com/Yetemare-Yibeltal/Heroy-Ai-Based">Heroy-Ai-Based</a> ·
-<a href="https://github.com/Yetemare-Yibeltal/Full-Apple-web">Full-Apple-web</a>
-<br/>
-<em>and 19 other repositories</em>
-</p>
 
 ---
 
