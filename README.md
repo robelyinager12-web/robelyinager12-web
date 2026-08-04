@@ -1,4 +1,4 @@
-<div align="center">
+[8/4/2026 10:26 PM] roba: <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F80ED,25:238636,50:238636,100:2F80ED&height=250&section=header&text=Robel%20Yinager&fontSize=60&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Full%20Stack%20Engineer%20%7C%20MERN%20%7C%20Software%20Engineering%20Student&descAlignY=58&descSize=18&descColor=FFFFFF" width="100%"/>
 
@@ -43,7 +43,6 @@
 </tr>
 </table>
 
-```javascript
 const robel = {
     role: "Full-Stack Web Developer",
     based_in: "Injibara, Ethiopia",
@@ -53,7 +52,6 @@ const robel = {
     currently_exploring: ["Python", "TensorFlow", "Kotlin / Android Studio", "AWS Cloud Fundamentals"],
     currently: "Building clean, accessible, production-ready web apps"
 };
-```
 
 ---
 
@@ -78,8 +76,7 @@ const robel = {
 ## 🛠 Tech Stack
 
 ### 🎨 Frontend
-
-<p align="left">
+[8/4/2026 10:26 PM] roba: <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="52" title="HTML5"/>&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="52" title="CSS3"/>&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="52" title="JavaScript"/>&nbsp;&nbsp;&nbsp;
@@ -141,8 +138,7 @@ const robel = {
 ---
 
 ### 🤖 AI & Machine Learning
-
-<p align="left">
+[8/4/2026 10:26 PM] roba: <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="52" title="Python"/>&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="52" title="TensorFlow"/>&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="52" title="PyTorch"/>&nbsp;&nbsp;&nbsp;
@@ -223,8 +219,7 @@ Certifications *(via Udacity — Global Chapters Ethiopia, in partnership with t
 <div align="center">
 
 <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=robelyinager12-web&theme=github-dark-blue&hide_border=true"/>
-
-</div>
+[8/4/2026 10:26 PM] roba: </div>
 
 <br/>
 
@@ -239,32 +234,6 @@ Certifications *(via Udacity — Global Chapters Ethiopia, in partnership with t
 ![](https://capsule-render.vercel.app/api?type=waving&color=0:238636,33:2F80ED,66:238636,100:2F80ED&height=100&section=footer&fontSize=0)
 
 </div>
-
----
-
-## 📊 Activity Overview
-
-<table width="100%" border="0" cellpadding="16" cellspacing="0">
-<tr>
-<td width="40%" valign="top">
-
-**Activity overview**
-
-📦&nbsp; **Contributed to**
-
-[AI-Assisted-Digital-Diagnosis](https://github.com/Yetemare-Yibeltal/AI-Assisted-Digital-Diagnosis) ,
-[Heroy-Ai-Based](https://github.com/Yetemare-Yibeltal/Heroy-Ai-Based) ,
-[Full-Apple-web](https://github.com/Yetemare-Yibeltal/Full-Apple-web)  
-*and 19 other repositories*
-
-</td>
-<td width="60%" align="center" valign="top">
-
-<img src="https://ghchart.rshah.org/2da44e/robelyinager12-web" alt="Robel's contribution calendar" width="100%"/>
-
-</td>
-</tr>
-</table>
 
 ---
 
