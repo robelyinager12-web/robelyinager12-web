@@ -242,6 +242,52 @@ Certifications *(via Udacity — Global Chapters Ethiopia, in partnership with t
 
 ---
 
+## 📊 Activity Overview
+
+<table width="100%" border="0" cellpadding="8" cellspacing="0">
+<tr>
+<td align="center" width="25%">
+
+**💻 Commits**
+<br/>
+![Commits](https://img.shields.io/badge/100%25-238636?style=for-the-badge)
+
+</td>
+<td align="center" width="25%">
+
+**🐛 Issues**
+<br/>
+![Issues](https://img.shields.io/badge/Active-2F80ED?style=for-the-badge)
+
+</td>
+<td align="center" width="25%">
+
+**🔀 Pull Requests**
+<br/>
+![PRs](https://img.shields.io/badge/Active-2F80ED?style=for-the-badge)
+
+</td>
+<td align="center" width="25%">
+
+**👀 Code Review**
+<br/>
+![Code Review](https://img.shields.io/badge/Active-238636?style=for-the-badge)
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+<strong>Contributed to:</strong>
+<a href="https://github.com/Yetemare-Yibeltal/AI-Assisted-Digital-Diagnosis">AI-Assisted-Digital-Diagnosis</a> ·
+<a href="https://github.com/Yetemare-Yibeltal/Heroy-Ai-Based">Heroy-Ai-Based</a> ·
+<a href="https://github.com/Yetemare-Yibeltal/Full-Apple-web">Full-Apple-web</a>
+<br/>
+<em>and 19 other repositories</em>
+</p>
+
+---
+
 ## 🏆 GitHub Trophies
 
 <div align="center">
