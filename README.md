@@ -244,17 +244,9 @@ Certifications *(via Udacity — Global Chapters Ethiopia, in partnership with t
 
 ## 📊 Activity Overview
 
-<div align="center">
-
-<img src="https://ghchart.rshah.org/2F80ED/robelyinager12-web" alt="Robel's contribution calendar" width="95%"/>
-
-</div>
-
-<br/>
-
 <table width="100%" border="0" cellpadding="16" cellspacing="0">
 <tr>
-<td width="45%" valign="top">
+<td width="40%" valign="top">
 
 **Activity overview**
 
@@ -266,18 +258,9 @@ Certifications *(via Udacity — Global Chapters Ethiopia, in partnership with t
 *and 19 other repositories*
 
 </td>
-<td width="55%" align="center" valign="top">
+<td width="60%" align="center" valign="top">
 
-<svg width="300" height="260" viewBox="0 0 300 260" xmlns="http://www.w3.org/2000/svg">
-  <line x1="150" y1="15" x2="150" y2="245" stroke="#2da44e" stroke-width="2"/>
-  <line x1="15" y1="130" x2="285" y2="130" stroke="#2da44e" stroke-width="2"/>
-  <circle cx="70" cy="130" r="5" fill="#2da44e"/>
-  <text x="150" y="12" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#57606a">Code review</text>
-  <text x="290" y="134" text-anchor="start" font-family="sans-serif" font-size="13" fill="#57606a">Issues</text>
-  <text x="150" y="258" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#57606a">Pull requests</text>
-  <text x="10" y="118" text-anchor="end" font-family="sans-serif" font-size="13" fill="#57606a">100%</text>
-  <text x="10" y="136" text-anchor="end" font-family="sans-serif" font-size="13" fill="#57606a">Commits</text>
-</svg>
+<img src="https://ghchart.rshah.org/2da44e/robelyinager12-web" alt="Robel's contribution calendar" width="100%"/>
 
 </td>
 </tr>
