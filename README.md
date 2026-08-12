@@ -1,8 +1,3 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,30:2563EB,60:238636,100:0F172A&height=280&section=header&text=Robel%20Yinager&fontSize=60&fontColor=FFFFFF&fontAlignY=35&animation=fadeIn&desc=Full-Stack%20Engineer%20%7C%20MERN%20%7C%20Software%20Engineering%20Student&descAlignY=58&descSize=18&descColor=E2E8F0" width="100%"/>
-
-<br>
 
 <a href="https://robelyinager12-web.vercel.app">
 <img src="https://img.shields.io/badge/🌐%20PORTFOLIO-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
