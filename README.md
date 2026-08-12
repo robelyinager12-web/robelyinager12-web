@@ -21,12 +21,6 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=robelyinager12-web&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS"/>
-
-</div>
-
----
-
 # 👨‍💻 About Me
 
 <table>
