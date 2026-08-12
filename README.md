@@ -11,7 +11,6 @@
 <a href="https://github.com/robelyinager12-web">
 <img src="https://img.shields.io/badge/💻%20GITHUB-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
 <a href="mailto:robelyinager12@gmail.com">
 <img src="https://img.shields.io/badge/📧%20EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
