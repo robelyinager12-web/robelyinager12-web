@@ -67,17 +67,6 @@ const robel = {
     university:
         "University of Injibara",
 
-    location:
-        "Ethiopia 🇪🇹",
-
-    stack: [
-        "React",
-        "Next.js",
-        "Node.js",
-        "Express",
-        "PostgreSQL",
-        "MongoDB"
-    ],
 
     exploring: [
         "AI / ML",
