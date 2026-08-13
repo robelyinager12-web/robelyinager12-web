@@ -1,11 +1,4 @@
-%20Stack%20Engineer%20%7C%20MERN%20%7C%20Software%20Engineering%20Student&descAlignY=58&descSize=18&descColor=FFFFFF" width="100%"/>
 
-</div>
-
-<div align="center">
-
-<table width="100%" border="0">
-<tr>
 
 <td width="50%" align="left" valign="middle">
 
