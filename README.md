@@ -2,13 +2,7 @@
 
 
 
----
 
-## 🚀 About Me
-
-<table width="100%" border="0" cellpadding="6" cellspacing="0">
-<tr>
-<td>💻</td><td>Creative Full-Stack Web Developer passionate about transforming ideas into scalable, user-centered digital experiences.</td>
 </tr>
 <tr>
 <td>🌐</td><td>Specializing in building modern, responsive, and accessible web applications using <strong>React, Next.js, Node.js, Express.js, and PostgreSQL</strong>.</td>
