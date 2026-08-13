@@ -1,19 +1,6 @@
 
 
-<td width="50%" align="left" valign="middle">
 
-
-
-<td width="50%" align="right" valign="middle">
-
-<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="380" alt="Developer working at a dual-monitor setup"/>
-
-</td>
-
-</tr>
-</table>
-
-</div>
 
 ---
 
