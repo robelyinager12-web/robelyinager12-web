@@ -2,18 +2,6 @@
 
 
 
-```javascript
-const robel = {
-    role: "Full-Stack Web Developer",
-    based_in: "Injibara, Ethiopia",
-    studying: "B.Sc. Software Engineering — University of Injibara",
-    building_independently_since: "Feb 2024",
-    languages: ["Amharic (Native)", "English (C2 — Fluent)"],
-    currently_exploring: ["Python", "TensorFlow", "Kotlin / Android Studio", "AWS Cloud Fundamentals"],
-    currently: "Building clean, accessible, production-ready web apps"
-};
-```
-
 ---
 
 ## 🎯 Vision & Focus
