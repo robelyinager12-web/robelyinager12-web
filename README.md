@@ -1,25 +1,5 @@
 
 
-
-
----
-
-## 🎯 Vision & Focus
-
-<table width="100%" border="0" cellpadding="6" cellspacing="0">
-<tr>
-<td width="50%">🤖 &nbsp; Deepen Machine Learning skills — Python, NumPy, Pandas, scikit-learn, TensorFlow</td>
-<td width="50%">📱 &nbsp; Grow into Android development — Kotlin, Java, Android Studio, Jetpack Compose</td>
-</tr>
-<tr>
-<td>☁️ &nbsp; Build strong AWS Cloud fundamentals — Docker, CI/CD, deployment & scaling</td>
-<td>🌐 &nbsp; Keep shipping accessible, production-ready web apps</td>
-</tr>
-<tr>
-<td colspan="2">🚀 &nbsp; Continue learning and applying industry best practices across the stack</td>
-</tr>
-</table>
-
 ---
 
 ## 🛠 Tech Stack
