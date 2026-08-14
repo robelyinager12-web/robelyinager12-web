@@ -1,11 +1,5 @@
 
-<tr>
-<td>🌐</td><td>Specializing in building modern, responsive, and accessible web applications using <strong>React, Next.js, Node.js, Express.js, and PostgreSQL</strong>.</td>
-</tr>
-<tr>
-<td>🎨</td><td>I enjoy designing intuitive user interfaces and developing secure, high-performance backend systems that deliver exceptional user experiences.</td>
-</tr>
-<tr>
+
 <td>🌱</td><td>Driven by curiosity and continuous learning, I consistently explore emerging technologies in software engineering, cloud computing, artificial intelligence, and mobile development.</td>
 </tr>
 <tr>
