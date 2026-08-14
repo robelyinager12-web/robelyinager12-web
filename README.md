@@ -1,4 +1,82 @@
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F80ED,25:238636,50:238636,100:2F80ED&height=250&section=header&text=Robel%20Yinager&fontSize=60&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Full%20Stack%20Engineer%20%7C%20MERN%20%7C%20Software%20Engineering%20Student&descAlignY=58&descSize=18&descColor=FFFFFF" width="100%"/>
+
+</div>
+
+<div align="center">
+
+<table width="100%" border="0">
+<tr>
+
+<td width="50%" align="left" valign="middle">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1200&color=2F80ED&width=600&lines=Software+Engineer;Full+Stack+Developer;MERN+Stack+Developer;Building+Clean%2C+Accessible+Apps)](https://git.io/typing-svg)
+
+</td>
+
+<td width="50%" align="right" valign="middle">
+
+<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="380" alt="Developer working at a dual-monitor setup"/>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🚀 About Me
+
+<table width="100%" border="0" cellpadding="6" cellspacing="0">
+<tr>
+<td>💻</td><td>Creative Full-Stack Web Developer passionate about transforming ideas into scalable, user-centered digital experiences.</td>
+</tr>
+<tr>
+<td>🌐</td><td>Specializing in building modern, responsive, and accessible web applications using <strong>React, Next.js, Node.js, Express.js, and PostgreSQL</strong>.</td>
+</tr>
+<tr>
+<td>🎨</td><td>I enjoy designing intuitive user interfaces and developing secure, high-performance backend systems that deliver exceptional user experiences.</td>
+</tr>
+<tr>
+<td>🌱</td><td>Driven by curiosity and continuous learning, I consistently explore emerging technologies in software engineering, cloud computing, artificial intelligence, and mobile development.</td>
+</tr>
+<tr>
+<td>🧭</td><td>Committed to writing clean, maintainable code while following industry best practices and modern development workflows.</td>
+</tr>
+</table>
+
+```javascript
+const robel = {
+    role: "Full-Stack Web Developer",
+    based_in: "Injibara, Ethiopia",
+    studying: "B.Sc. Software Engineering — University of Injibara",
+    building_independently_since: "Feb 2024",
+    languages: ["Amharic (Native)", "English (C2 — Fluent)"],
+    currently_exploring: ["Python", "TensorFlow", "Kotlin / Android Studio", "AWS Cloud Fundamentals"],
+    currently: "Building clean, accessible, production-ready web apps"
+};
+```
+
+---
+
+## 🎯 Vision & Focus
+
+<table width="100%" border="0" cellpadding="6" cellspacing="0">
+<tr>
+<td width="50%">🤖 &nbsp; Deepen Machine Learning skills — Python, NumPy, Pandas, scikit-learn, TensorFlow</td>
+<td width="50%">📱 &nbsp; Grow into Android development — Kotlin, Java, Android Studio, Jetpack Compose</td>
+</tr>
+<tr>
+<td>☁️ &nbsp; Build strong AWS Cloud fundamentals — Docker, CI/CD, deployment & scaling</td>
+<td>🌐 &nbsp; Keep shipping accessible, production-ready web apps</td>
+</tr>
+<tr>
+<td colspan="2">🚀 &nbsp; Continue learning and applying industry best practices across the stack</td>
+</tr>
+</table>
 
 ---
 
