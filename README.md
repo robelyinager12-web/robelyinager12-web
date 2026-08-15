@@ -1,10 +1,4 @@
 
-<td>🌱</td><td>Driven by curiosity and continuous learning, I consistently explore emerging technologies in software engineering, cloud computing, artificial intelligence, and mobile development.</td>
-</tr>
-<tr>
-<td>🧭</td><td>Committed to writing clean, maintainable code while following industry best practices and modern development workflows.</td>
-</tr>
-</table>
 
 ```javascript
 const robel = {
