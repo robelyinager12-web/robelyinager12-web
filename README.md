@@ -1,14 +1,4 @@
 
-<tr>
-<td>☁️ &nbsp; Build strong AWS Cloud fundamentals — Docker, CI/CD, deployment & scaling</td>
-<td>🌐 &nbsp; Keep shipping accessible, production-ready web apps</td>
-</tr>
-<tr>
-<td colspan="2">🚀 &nbsp; Continue learning and applying industry best practices across the stack</td>
-</tr>
-</table>
-
----
 
 ## 🛠 Tech Stack
 
