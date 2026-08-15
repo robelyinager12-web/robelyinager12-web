@@ -1,11 +1,4 @@
 
-</tr>
-</table>
-
-</div>
-
----
-
 ## 🚀 About Me
 
 <table width="100%" border="0" cellpadding="6" cellspacing="0">
