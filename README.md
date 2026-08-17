@@ -1,12 +1,4 @@
-
-</div>
-
-<div align="center">
-
-<table width="100%" border="0">
-<tr>
-
-<td width="50%" align="left" valign="middle">
+width="50%" align="left" valign="middle">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1200&color=2F80ED&width=600&lines=Software+Engineer;Full+Stack+Developer;MERN+Stack+Developer;Building+Clean%2C+Accessible+Apps)](https://git.io/typing-svg)
 
