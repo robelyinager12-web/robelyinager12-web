@@ -1,4 +1,15 @@
-width="50%" align="left" valign="middle">
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F80ED,25:238636,50:238636,100:2F80ED&height=250&section=header&text=Robel%20Yinager&fontSize=60&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Full%20Stack%20Engineer%20%7C%20MERN%20%7C%20Software%20Engineering%20Student&descAlignY=58&descSize=18&descColor=FFFFFF" width="100%"/>
+
+</div>
+
+<div align="center">
+
+<table width="100%" border="0">
+<tr>
+
+<td width="50%" align="left" valign="middle">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1200&color=2F80ED&width=600&lines=Software+Engineer;Full+Stack+Developer;MERN+Stack+Developer;Building+Clean%2C+Accessible+Apps)](https://git.io/typing-svg)
 
