@@ -1,17 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=200&section=header&text=Robel%20Yinager&fontSize=50&fontColor=6366F1&fontAlignY=42&animation=fadeIn&desc=Full%20Stack%20Engineer%20%C2%B7%20MERN%20%C2%B7%20Software%20Engineering%20Student&descAlignY=60&descSize=15&descColor=94A3B8" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=200&section=header&text=Robel%20Yinager&fontSize=50&fontColor=3B82F6&fontAlignY=42&animation=fadeIn&desc=Full%20Stack%20Engineer%20%C2%B7%20MERN%20%C2%B7%20Software%20Engineering%20Student&descAlignY=60&descSize=15&descColor=22D3EE" width="100%"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Software+Engineer;Full+Stack+Developer;MERN+Stack+Developer;Backend+Engineer;AI+%26+ML+Explorer;Building+Clean%2C+Accessible+Apps)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Software+Engineer;Full+Stack+Developer;MERN+Stack+Developer;Backend+Engineer;AI+%26+ML+Explorer;Building+Clean%2C+Accessible+Apps)](https://git.io/typing-svg)
 
 <p>
-  <a href="mailto:robelyinager12@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=6366F1&labelColor=0D1117" /></a>
-  <a href="https://linkedin.com/in/robel-yinager-943b37419"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=6366F1&labelColor=0D1117" /></a>
-  <a href="https://github.com/robelyinager12-web"><img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=6366F1&labelColor=0D1117" /></a>
-  <a href="https://robelyinager12-web.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=flat-square&logo=vercel&logoColor=6366F1&labelColor=0D1117" /></a>
-  <a href="https://t.me/robelyinager12"><img src="https://img.shields.io/badge/Telegram-0D1117?style=flat-square&logo=telegram&logoColor=6366F1&labelColor=0D1117" /></a>
+  <a href="mailto:robelyinager12@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=3B82F6&labelColor=0D1117" /></a>
+  <a href="https://linkedin.com/in/robel-yinager-943b37419"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=3B82F6&labelColor=0D1117" /></a>
+  <a href="https://github.com/robelyinager12-web"><img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=3B82F6&labelColor=0D1117" /></a>
+  <a href="https://robelyinager12-web.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=flat-square&logo=vercel&logoColor=3B82F6&labelColor=0D1117" /></a>
+  <a href="https://t.me/robelyinager12"><img src="https://img.shields.io/badge/Telegram-0D1117?style=flat-square&logo=telegram&logoColor=3B82F6&labelColor=0D1117" /></a>
 </p>
 
 </div>
@@ -153,16 +153,16 @@ const robel = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=robelyinager12-web&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=818CF8&text_color=FFFFFF&cache_seconds=1800"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robelyinager12-web&layout=donut-vertical&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF&cache_seconds=1800"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=robelyinager12-web&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=06B6D4&text_color=FFFFFF&cache_seconds=1800"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robelyinager12-web&layout=donut-vertical&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=FFFFFF&cache_seconds=1800"/>
 
 <br/>
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=robelyinager12-web&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=818CF8&currStreakNum=FFFFFF&sideNums=818CF8&currStreakLabel=6366F1&sideLabels=A5B4FC&dates=FFFFFF"/>
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=robelyinager12-web&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=06B6D4&currStreakNum=FFFFFF&sideNums=06B6D4&currStreakLabel=3B82F6&sideLabels=38BDF8&dates=FFFFFF"/>
 
 <br/>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=robelyinager12-web&bg_color=0D1117&color=94A3B8&line=6366F1&point=818CF8&area=true&area_color=0A1628&hide_border=true&custom_title=Robel's+Contribution+Graph)](https://github.com/robelyinager12-web)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=robelyinager12-web&bg_color=0D1117&color=22D3EE&line=3B82F6&point=06B6D4&area=true&area_color=0A1628&hide_border=true&custom_title=Robel's+Contribution+Graph)](https://github.com/robelyinager12-web)
 
 </div>
 
@@ -180,12 +180,12 @@ const robel = {
 
 <div align="center">
 
-![](https://img.shields.io/badge/Full_Stack-Developer-6366F1?style=for-the-badge&labelColor=0D1117)
-![](https://img.shields.io/badge/AI_/_ML-Explorer-A5B4FC?style=for-the-badge&labelColor=0D1117)
-![](https://img.shields.io/badge/Cloud-Fundamentals-818CF8?style=for-the-badge&labelColor=0D1117)
-![](https://img.shields.io/badge/Open_to-Opportunities-94A3B8?style=for-the-badge&labelColor=0D1117)
+![](https://img.shields.io/badge/Full_Stack-Developer-3B82F6?style=for-the-badge&labelColor=0D1117)
+![](https://img.shields.io/badge/AI_/_ML-Explorer-38BDF8?style=for-the-badge&labelColor=0D1117)
+![](https://img.shields.io/badge/Cloud-Fundamentals-06B6D4?style=for-the-badge&labelColor=0D1117)
+![](https://img.shields.io/badge/Open_to-Opportunities-22D3EE?style=for-the-badge&labelColor=0D1117)
 
-![Profile Views](https://komarev.com/ghpvc/?username=robelyinager12-web&style=for-the-badge&color=6366F1&label=Profile+Views&labelColor=0D1117)
+![Profile Views](https://komarev.com/ghpvc/?username=robelyinager12-web&style=for-the-badge&color=3B82F6&label=Profile+Views&labelColor=0D1117)
 
 </div>
 
